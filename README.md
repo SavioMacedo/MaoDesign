@@ -20,10 +20,10 @@ O **MaoDesign** é um aplicativo Android gratuito para visualização de arquivo
 - 🇺🇸 [**English**](Legal/privacy-policy-en.md) - Complete Privacy Policy  
 - 🇪🇸 [**Español**](Legal/privacy-policy-es.md) - Política de Privacidad completa
 
-### 📜 Termos de Uso (Em Breve)
-- 🇧🇷 [**Português**](Legal/terms-of-service.md) - Em desenvolvimento
-- 🇺🇸 [**English**](Legal/terms-of-service-en.md) - Em desenvolvimento
-- 🇪🇸 [**Español**](Legal/terms-of-service-es.md) - Em desenvolvimento
+### 📜 Termos de Uso
+- 🇧🇷 [**Português**](Legal/terms-of-service.md) - Termos de Uso completos
+- 🇺🇸 [**English**](Legal/terms-of-service-en.md) - Complete Terms of Service  
+- 🇪🇸 [**Español**](Legal/terms-of-service-es.md) - Términos de Servicio completos
 
 ## 🌐 URLs Diretas
 
@@ -31,9 +31,16 @@ O **MaoDesign** é um aplicativo Android gratuito para visualização de arquivo
 
 ```csharp
 // URLs para carregar documentos diretamente no aplicativo
+
+// Políticas de Privacidade
 private const string PRIVACY_POLICY_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy.md";
 private const string PRIVACY_POLICY_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-en.md";  
 private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-es.md";
+
+// Termos de Uso
+private const string TERMS_OF_SERVICE_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service.md";
+private const string TERMS_OF_SERVICE_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service-en.md";
+private const string TERMS_OF_SERVICE_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service-es.md";
 ```
 
 ## ✅ Compliance e Certificações
