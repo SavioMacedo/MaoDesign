@@ -31,9 +31,9 @@ O **MaoDesign** é um aplicativo Android gratuito para visualização de arquivo
 
 ```csharp
 // URLs para carregar documentos diretamente no aplicativo
-private const string PRIVACY_POLICY_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy.md";
-private const string PRIVACY_POLICY_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy-en.md";  
-private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy-es.md";
+private const string PRIVACY_POLICY_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy.md";
+private const string PRIVACY_POLICY_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-en.md";  
+private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-es.md";
 ```
 
 ## ✅ Compliance e Certificações
@@ -110,8 +110,8 @@ private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/Savi
 
 ## 🔗 Links Importantes
 
-- 🏠 **Repositório Principal**: [SavioMacedo.MaoDesign](https://github.com/SavioMacedo/SavioMacedo.MaoDesign) (Privado)
-- 📋 **Documentos Legais**: [MaoDesignLegals](https://github.com/SavioMacedo/MaoDesignLegals) (Este repositório)
+- 🏠 **Repositório Principal**: [SavioMacedo/MaoDesign](https://github.com/SavioMacedo/MaoDesign) (Público)
+- 📋 **Documentos Legais**: Pasta `/Legal/` neste repositório
 - 📱 **Google Play**: [Em breve]
 - 🌐 **Website**: [Em desenvolvimento]
 

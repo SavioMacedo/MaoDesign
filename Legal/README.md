@@ -20,14 +20,14 @@ Estes documentos são acessíveis online através do repositório GitHub:
 ### URLs de Acesso Direto
 
 #### Política de Privacidade
-- **Português**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy.md`
-- **English**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy-en.md`
-- **Español**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy-es.md`
+- **Português**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy.md`
+- **English**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-en.md`
+- **Español**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-es.md`
 
 #### Termos de Uso
-- **Português**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/terms-of-service.md`
-- **English**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/terms-of-service-en.md`
-- **Español**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/terms-of-service-es.md`
+- **Português**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service.md`
+- **English**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service-en.md`
+- **Español**: `https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service-es.md`
 
 ## 📱 Integração no Aplicativo
 
@@ -45,9 +45,9 @@ public interface ILegalDocumentService
 
 2. **URLs de Produção**
 ```csharp
-private const string PRIVACY_POLICY_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy.md";
-private const string PRIVACY_POLICY_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy-en.md";
-private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesignLegals/main/Legal/privacy-policy-es.md";
+private const string PRIVACY_POLICY_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy.md";
+private const string PRIVACY_POLICY_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-en.md";
+private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-es.md";
 ```
 
 3. **Páginas no App**
