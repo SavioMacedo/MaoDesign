@@ -1,0 +1,75 @@
+# GitHub Pages Jekyll Configuration for MaoDesign Legal Documents
+title: "MaoDesign - Documentos Legais"
+description: "Documentos legais públicos do aplicativo MaoDesign - Visualizador de Bordados"
+author: "Savio Macedo"
+email: "saviomacedo.dev@gmail.com"
+url: "https://saviomacedo.github.io"
+baseurl: "/MaoDesign"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .git/
+  - .gitignore
+  - README.md
+
+# Collections
+collections:
+  legal:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "legal"
+    values:
+      layout: "legal"
+  - scope:
+      path: "Legal"
+    values:
+      layout: "legal"
+
+# Navigation
+navigation:
+  - title: "Início"
+    url: "/"
+  - title: "Política de Privacidade"
+    url: "/Legal/privacy-policy/"
+  - title: "Privacy Policy"
+    url: "/Legal/privacy-policy-en/"
+  - title: "Política de Privacidad"
+    url: "/Legal/privacy-policy-es/"
+  - title: "Termos de Uso"
+    url: "/Legal/terms-of-service/"
+  - title: "Terms of Service"
+    url: "/Legal/terms-of-service-en/"
+  - title: "Términos de Servicio"
+    url: "/Legal/terms-of-service-es/"
+
+# SEO
+lang: pt-BR
+twitter:
+  username: saviomacedo
+  card: summary
+
+# Social
+social:
+  name: Savio Macedo
+  links:
+    - https://github.com/SavioMacedo
+    - https://maodesign.com.br
+
+# Google Analytics (opcional)
+# google_analytics: UA-XXXXXXXXX-X

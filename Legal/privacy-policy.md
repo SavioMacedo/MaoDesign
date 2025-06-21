@@ -1,3 +1,11 @@
+---
+layout: legal
+title: "Política de Privacidade - MaoDesign"
+description: "Política de Privacidade completa do aplicativo MaoDesign - Visualizador de Bordados"
+lang: pt-BR
+permalink: /Legal/privacy-policy/
+---
+
 # Política de Privacidade - MaoDesign
 
 **Última atualização**: 19 de junho de 2025  

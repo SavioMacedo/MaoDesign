@@ -1,3 +1,11 @@
+---
+layout: legal
+title: "Terms of Service - MaoDesign"
+description: "Complete Terms of Service for MaoDesign - Embroidery Viewer application"
+lang: en-US
+permalink: /Legal/terms-of-service-en/
+---
+
 # 📋 Terms of Service - MaoDesign
 
 **Last updated:** January 17, 2025

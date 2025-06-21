@@ -1,3 +1,11 @@
+---
+layout: legal
+title: "Privacy Policy - MaoDesign"
+description: "Complete Privacy Policy for MaoDesign - Embroidery Viewer application"
+lang: en-US
+permalink: /Legal/privacy-policy-en/
+---
+
 # Privacy Policy - MaoDesign
 
 **Last updated**: June 19, 2025  

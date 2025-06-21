@@ -1,3 +1,11 @@
+---
+layout: legal
+title: "Termos de Uso - MaoDesign"
+description: "Termos de Uso completos do aplicativo MaoDesign - Visualizador de Bordados"
+lang: pt-BR
+permalink: /Legal/terms-of-service/
+---
+
 # 📋 Termos de Uso - MaoDesign
 
 **Última atualização:** 17 de janeiro de 2025

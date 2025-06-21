@@ -1,3 +1,11 @@
+---
+layout: legal
+title: "Términos de Servicio - MaoDesign"
+description: "Términos de Servicio completos para la aplicación MaoDesign - Visor de Bordados"
+lang: es-ES
+permalink: /Legal/terms-of-service-es/
+---
+
 # 📋 Términos de Servicio - MaoDesign
 
 **Última actualización:** 17 de enero de 2025
