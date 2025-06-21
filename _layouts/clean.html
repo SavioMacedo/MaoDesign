@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'pt-BR' }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {%- seo -%}
+  
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+    }
+    
+    .site-header {
+      display: none !important;
+    }
+    
+    .site-nav {
+      display: none !important;
+    }
+    
+    .page-content {
+      padding: 0;
+    }
+    
+    .wrapper {
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  {%- if site.footer -%}
+    {%- include footer.html -%}
+  {%- endif -%}
+</body>
+</html>

@@ -41,23 +41,6 @@ defaults:
     values:
       layout: "legal"
 
-# Navigation
-navigation:
-  - title: "Início"
-    url: "/"
-  - title: "Política de Privacidade"
-    url: "/Legal/privacy-policy/"
-  - title: "Privacy Policy"
-    url: "/Legal/privacy-policy-en/"
-  - title: "Política de Privacidad"
-    url: "/Legal/privacy-policy-es/"
-  - title: "Termos de Uso"
-    url: "/Legal/terms-of-service/"
-  - title: "Terms of Service"
-    url: "/Legal/terms-of-service-en/"
-  - title: "Términos de Servicio"
-    url: "/Legal/terms-of-service-es/"
-
 # SEO
 lang: pt-BR
 twitter:
