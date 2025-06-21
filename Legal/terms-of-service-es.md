@@ -1,6 +1,6 @@
 ---
 layout: legal
-title: "Términos de Servicio - MaoDesign"
+title: "Términos de Servicio"
 description: "Términos de Servicio completos para la aplicación MaoDesign - Visor de Bordados"
 lang: es-ES
 permalink: /Legal/terms-of-service-es/

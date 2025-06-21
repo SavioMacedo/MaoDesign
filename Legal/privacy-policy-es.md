@@ -1,6 +1,6 @@
 ---
 layout: legal
-title: "Política de Privacidad - MaoDesign"
+title: "Política de Privacidad"
 description: "Política de Privacidad completa para la aplicación MaoDesign - Visor de Bordados"
 lang: es-ES
 permalink: /Legal/privacy-policy-es/

@@ -1,6 +1,6 @@
 ---
 layout: legal
-title: "Terms of Service - MaoDesign"
+title: "Terms of Service"
 description: "Complete Terms of Service for MaoDesign - Embroidery Viewer application"
 lang: en-US
 permalink: /Legal/terms-of-service-en/

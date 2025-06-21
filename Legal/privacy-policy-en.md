@@ -1,6 +1,6 @@
 ---
 layout: legal
-title: "Privacy Policy - MaoDesign"
+title: "Privacy Policy"
 description: "Complete Privacy Policy for MaoDesign - Embroidery Viewer application"
 lang: en-US
 permalink: /Legal/privacy-policy-en/
