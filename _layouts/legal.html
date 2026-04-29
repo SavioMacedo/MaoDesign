@@ -32,6 +32,10 @@ layout: clean
         <a href="{{ '/Legal/terms-of-service/' | relative_url }}" class="lang-link {% if page.url == '/Legal/terms-of-service/' or page.url == '/Legal/terms-of-service.html' %}active{% endif %}">🇧🇷 Português</a>
         <a href="{{ '/Legal/terms-of-service-en/' | relative_url }}" class="lang-link {% if page.url contains 'terms-of-service-en' %}active{% endif %}">🇺🇸 English</a>
         <a href="{{ '/Legal/terms-of-service-es/' | relative_url }}" class="lang-link {% if page.url contains 'terms-of-service-es' %}active{% endif %}">🇪🇸 Español</a>
+      {% elsif page.url contains 'help' %}
+        <a href="{{ '/Legal/help/' | relative_url }}" class="lang-link {% if page.url == '/Legal/help/' or page.url == '/Legal/help.html' %}active{% endif %}">🇧🇷 Português</a>
+        <a href="{{ '/Legal/help-en/' | relative_url }}" class="lang-link {% if page.url contains 'help-en' %}active{% endif %}">🇺🇸 English</a>
+        <a href="{{ '/Legal/help-es/' | relative_url }}" class="lang-link {% if page.url contains 'help-es' %}active{% endif %}">🇪🇸 Español</a>
       {% endif %}
     </div>
   </nav>
