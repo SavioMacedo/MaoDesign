@@ -32,6 +32,10 @@ layout: clean
         <a href="{{ '/Legal/terms-of-service/' | relative_url }}" class="lang-link {% if page.url == '/Legal/terms-of-service/' or page.url == '/Legal/terms-of-service.html' %}active{% endif %}">🇧🇷 Português</a>
         <a href="{{ '/Legal/terms-of-service-en/' | relative_url }}" class="lang-link {% if page.url contains 'terms-of-service-en' %}active{% endif %}">🇺🇸 English</a>
         <a href="{{ '/Legal/terms-of-service-es/' | relative_url }}" class="lang-link {% if page.url contains 'terms-of-service-es' %}active{% endif %}">🇪🇸 Español</a>
+      {% elsif page.url contains 'delete-account' %}
+        <a href="{{ '/Legal/delete-account/' | relative_url }}" class="lang-link {% if page.url == '/Legal/delete-account/' %}active{% endif %}">🇧🇷 Português</a>
+        <a href="{{ '/Legal/delete-account-en/' | relative_url }}" class="lang-link {% if page.url contains 'delete-account-en' %}active{% endif %}">🇺🇸 English</a>
+        <a href="{{ '/Legal/delete-account-es/' | relative_url }}" class="lang-link {% if page.url contains 'delete-account-es' %}active{% endif %}">🇪🇸 Español</a>
       {% elsif page.url contains 'help' %}
         <a href="{{ '/Legal/help/' | relative_url }}" class="lang-link {% if page.url == '/Legal/help/' or page.url == '/Legal/help.html' %}active{% endif %}">🇧🇷 Português</a>
         <a href="{{ '/Legal/help-en/' | relative_url }}" class="lang-link {% if page.url contains 'help-en' %}active{% endif %}">🇺🇸 English</a>
@@ -48,16 +52,18 @@ layout: clean
     <div class="footer-content">
       <div class="footer-section">
         <h4>📱 Sobre o App</h4>
-        <p><strong>MaoDesign</strong> é um visualizador gratuito de arquivos de bordado para Android.</p>
-        <p>Suporta 9 formatos: PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR</p>
+        <p><strong>MaoDesign</strong> é um estúdio de bordados para Android.</p>
+        <p>Abre desenhos DST, HUS, JEF, PEC, PES e XXX.</p>
       </div>
       
       <div class="footer-section">
         <h4>🔗 Links Úteis</h4>
         <ul>
           <li><a href="https://play.google.com/store/apps/details?id=com.saviomacedo.maodesign" target="_blank">📱 Google Play Store</a></li>
-          <li><a href="https://maodesign.com.br" target="_blank">🌐 Website Oficial</a></li>
-          <li><a href="https://github.com/SavioMacedo/MaoDesign" target="_blank">🛠️ Código Fonte</a></li>
+          <li><a href="{{ '/Legal/privacy-policy/' | relative_url }}">🔒 Política de Privacidade</a></li>
+          <li><a href="{{ '/Legal/terms-of-service/' | relative_url }}">📋 Termos de Uso</a></li>
+          <li><a href="{{ '/Legal/delete-account/' | relative_url }}">🗑️ Exclusão de Conta</a></li>
+          <li><a href="{{ '/Legal/help/' | relative_url }}">❓ Central de Ajuda</a></li>
         </ul>
       </div>
       

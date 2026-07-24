@@ -1,6 +1,6 @@
 # GitHub Pages Jekyll Configuration for MaoDesign Legal Documents
 title: "MaoDesign"
-description: "Documentos legais públicos do aplicativo MaoDesign - Visualizador de Bordados"
+description: "Documentos legais públicos do aplicativo MaoDesign para Android"
 author: "Savio Macedo"
 email: "saviomacedo.dev@gmail.com"
 url: "https://saviomacedo.github.io"
@@ -52,7 +52,6 @@ social:
   name: Savio Macedo
   links:
     - https://github.com/SavioMacedo
-    - https://maodesign.com.br
 
 # Google Analytics (opcional)
 # google_analytics: UA-XXXXXXXXX-X

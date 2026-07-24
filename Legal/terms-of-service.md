@@ -1,147 +1,69 @@
 ---
 layout: legal
 title: "Termos de Uso"
-description: "Termos de Uso completos do aplicativo MaoDesign - Visualizador de Bordados"
+description: "Condições para usar o aplicativo MaoDesign"
 lang: pt-BR
 permalink: /Legal/terms-of-service/
 ---
 
-# 📋 Termos de Uso - MaoDesign
+# Termos de Uso do MaoDesign
 
-**Última atualização:** 17 de janeiro de 2025
+**Última atualização:** 23 de julho de 2026
 
-## 📱 Sobre o Aplicativo
+**Versão:** 2.0
 
-O **MaoDesign - Visualizador de Bordados** é um aplicativo gratuito desenvolvido por **Savio Macedo** para visualização de arquivos de bordado. Ao usar nosso aplicativo, você concorda com estes termos.
+Ao instalar ou usar o MaoDesign, você concorda com estes Termos e com a [Política de Privacidade]({{ '/Legal/privacy-policy/' | relative_url }}). Se não concordar, não utilize o aplicativo.
 
-## 🎯 Aceitação dos Termos
+## 1. Serviço
 
-Ao baixar, instalar ou usar o aplicativo MaoDesign, você concorda em ficar vinculado a estes Termos de Uso. Se você não concordar com qualquer parte destes termos, não deve usar o aplicativo.
+O MaoDesign é um aplicativo Android para abrir, criar e editar bordados. Ele pode trabalhar com texto, imagem e traço, camadas e linhas, simulação, salvamento, exportação e compartilhamento. Os formatos de desenho atualmente anunciados para abertura são **DST, HUS, JEF, PEC, PES e XXX**. Alguns formatos ou operações podem preservar menos metadados que o arquivo original.
 
-## 📲 Descrição do Serviço
+O serviço pode evoluir, corrigir falhas, alterar limites ou remover funcionalidades, respeitando direitos adquiridos e a legislação aplicável.
 
-### ✅ Funcionalidades Gratuitas
-- Visualização de arquivos de bordado em 9 formatos (PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR)
-- Zoom e navegação nos designs
-- Informações básicas sobre o bordado
-- Até 5 favoritos salvos
+## 2. Conta
 
-### 💎 Funcionalidades Premium (Assinatura)
-- Remoção de anúncios
-- Favoritos ilimitados
-- Recursos avançados de visualização
-- Suporte prioritário
+As funções principais podem ser usadas sem conta. O login Google é opcional. Você é responsável pela segurança da sua conta Google e pelas atividades realizadas no dispositivo. Não tente acessar contas ou dados de terceiros.
 
-## 🔐 Conta de Usuário
+A conta MaoDesign pode ser excluída em **Perfil > Excluir conta**. Consulte a [página de exclusão]({{ '/Legal/delete-account/' | relative_url }}). Excluir a conta não apaga automaticamente arquivos locais nem cancela uma assinatura Google Play.
 
-### Criação de Conta
-- Você pode usar o aplicativo sem criar uma conta
-- Para funcionalidades avançadas e sincronização, é necessário criar uma conta
-- Você é responsável por manter a confidencialidade de suas credenciais
+## 3. Plano gratuito e Premium
 
-### Responsabilidades do Usuário
-- Fornecer informações precisas durante o registro
-- Manter suas credenciais seguras
-- Notificar-nos imediatamente sobre uso não autorizado
+O plano gratuito é financiado por anúncios e pode aplicar limites, incluindo até **3 favoritos**. Premium pode remover anúncios e ampliar limites de textos, imagens, fontes e favoritos conforme mostrado na tela de assinatura.
 
-## 💰 Modelo de Negócio
+Assinaturas mensais ou anuais são cobradas e renovadas pelo Google Play até o cancelamento. Preço, período, teste e condições válidas são os exibidos no checkout do Google Play. Cancele em **Google Play > Pagamentos e assinaturas > Assinaturas**. O acesso continua conforme as regras do Google Play e a legislação aplicável.
 
-### Versão Gratuita
-- Suportada por anúncios
-- Limitações em algumas funcionalidades
-- Acesso às funcionalidades básicas
+## 4. Seus arquivos e conteúdo
 
-### Assinatura Premium
-- Pagamento mensal ou anual
-- Cancelamento a qualquer momento
-- Renovação automática até o cancelamento
+Você mantém os direitos sobre os arquivos, textos, imagens e desenhos que utiliza. Ao processá-los localmente, concede ao aplicativo apenas a permissão técnica necessária para abrir, editar, renderizar, salvar e exportar conforme suas ações.
 
-## 📱 Uso Adequado
+Você declara possuir autorização para usar o conteúdo e é responsável por direitos autorais, marcas, privacidade e demais direitos de terceiros. Não use o aplicativo para conteúdo ilegal, malicioso ou que viole direitos.
 
-### ✅ Usos Permitidos
-- Visualização pessoal de arquivos de bordado
-- Uso educacional e profissional
-- Compartilhamento responsável de conteúdo
+## 5. Licença do aplicativo
 
-### ❌ Usos Proibidos
-- Distribuição de malware ou conteúdo malicioso
-- Tentativas de hackear ou comprometer o aplicativo
-- Uso para atividades ilegais
-- Violação de direitos autorais de terceiros
+Recebe uma licença pessoal, limitada, revogável, não exclusiva e intransferível para usar o MaoDesign conforme estes Termos. Não é permitido contornar pagamentos ou limites, explorar vulnerabilidades, interferir nos serviços, redistribuir versões modificadas sem autorização ou usar o aplicativo para prejudicar terceiros.
 
-## 🔒 Privacidade e Dados
+## 6. Arquivos, máquinas e segurança
 
-Este aplicativo coleta e processa dados conforme descrito em nossa [Política de Privacidade](privacy-policy.md). Ao usar o aplicativo, você também concorda com nossa política de privacidade.
+Prévia e simulação são ferramentas de auxílio. Formatos de bordado possuem limitações e máquinas podem interpretar comandos de maneira diferente. Antes de produzir em material definitivo, confira dimensões, bastidor, linha, agulha, tecido e faça um teste de costura. Mantenha cópias dos arquivos importantes.
 
-## 📊 Anúncios
+## 7. Serviços de terceiros
 
-### Exibição de Anúncios
-- Anúncios são exibidos na versão gratuita
-- Usamos SDKs de terceiros para anúncios (IronSource)
-- Você pode remover anúncios através da assinatura premium
+Google/Firebase, Google Play e Unity LevelPlay/IronSource podem fornecer autenticação, diagnóstico, Analytics, pagamento, avaliação e publicidade. O uso dessas superfícies também está sujeito aos termos dos respectivos fornecedores.
 
-### Interação com Anúncios
-- A interação com anúncios é opcional
-- Não somos responsáveis pelo conteúdo de anúncios de terceiros
+## 8. Disponibilidade e responsabilidade
 
-## 🔄 Atualizações
+O aplicativo é fornecido conforme disponível. Buscamos estabilidade, mas não garantimos operação ininterrupta, compatibilidade com todo arquivo/máquina ou ausência total de erros. Na extensão permitida por lei, não respondemos por perdas indiretas decorrentes de uso inadequado, falta de backup ou produção sem teste. Nada nestes Termos exclui direitos obrigatórios do consumidor nem responsabilidade que a lei não permita limitar.
 
-### Atualizações do Aplicativo
-- Podemos atualizar o aplicativo regularmente
-- Algumas atualizações podem ser obrigatórias para continuar usando
-- Novos recursos podem ser adicionados ou removidos
+## 9. Suspensão e alterações
 
-### Alterações nos Termos
-- Podemos modificar estes termos ocasionalmente
-- Notificaremos sobre mudanças significativas
-- O uso continuado após as mudanças constitui aceitação
+Podemos restringir acesso a serviços online em caso de fraude, abuso, ataque ou exigência legal. Alterações relevantes destes Termos serão publicadas nesta página e poderão ser comunicadas no aplicativo.
 
-## 🚫 Suspensão e Cancelamento
+## 10. Lei, contato e suporte
 
-### Suspensão de Conta
-- Podemos suspender contas por violação destes termos
-- Tentativas de fraude ou abuso resultarão em suspensão
-- Você será notificado sobre suspensões quando possível
+Aplicam-se as leis brasileiras, sem afastar proteções obrigatórias do local de residência do consumidor.
 
-### Cancelamento de Assinatura
-- Você pode cancelar sua assinatura a qualquer momento
-- O cancelamento pode ser feito através das configurações da conta
-- Acesso premium continua até o final do período pago
+**Responsável:** Savio Macedo
 
-## ⚖️ Limitação de Responsabilidade
+**Contato:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
-### Isenção de Garantias
-- O aplicativo é fornecido "como está"
-- Não garantimos operação ininterrupta ou livre de erros
-- Não somos responsáveis por perda de dados
-
-### Limitação de Danos
-- Nossa responsabilidade é limitada ao máximo permitido por lei
-- Não somos responsáveis por danos indiretos ou consequenciais
-- Em caso de danos, a responsabilidade é limitada ao valor da assinatura
-
-## 🌍 Jurisdição e Lei Aplicável
-
-- Estes termos são regidos pelas leis brasileiras
-- Disputas serão resolvidas nos tribunais competentes do Brasil
-- Para usuários da UE, aplicam-se também as leis de proteção ao consumidor locais
-
-## 📞 Contato
-
-Para questões sobre estes Termos de Uso:
-
-**📧 Email:** saviomacedo.dev@gmail.com  
-**🌐 Website:** [maodesign.com.br](https://maodesign.com.br)  
-**📱 Google Play:** [MaoDesign na Play Store](https://play.google.com/store/apps/details?id=com.saviomacedo.maodesign)
-
----
-
-## 📋 Histórico de Versões
-
-| Data | Versão | Alterações |
-|------|--------|------------|
-| 17/01/2025 | 1.0 | Versão inicial dos Termos de Uso |
-
----
-
-**© 2025 Savio Macedo. Todos os direitos reservados.**
+**Ajuda:** [Central de Ajuda]({{ '/Legal/help/' | relative_url }})

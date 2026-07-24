@@ -1,147 +1,65 @@
 ---
 layout: legal
-title: "Términos de Servicio"
-description: "Términos de Servicio completos para la aplicación MaoDesign - Visor de Bordados"
+title: "Términos de Uso"
+description: "Condiciones para usar la aplicación MaoDesign"
 lang: es-ES
 permalink: /Legal/terms-of-service-es/
 ---
 
-# 📋 Términos de Servicio - MaoDesign
+# Términos de Uso de MaoDesign
 
-**Última actualización:** 17 de enero de 2025
+**Última actualización:** 23 de julio de 2026
 
-## 📱 Sobre la Aplicación
+**Versión:** 2.0
 
-**MaoDesign - Visor de Bordados** es una aplicación gratuita desarrollada por **Savio Macedo** para visualizar archivos de bordado. Al usar nuestra aplicación, aceptas estos términos.
+Al instalar o usar MaoDesign aceptas estos Términos y la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}). Si no estás de acuerdo, no uses la aplicación.
 
-## 🎯 Aceptación de los Términos
+## 1. Servicio
 
-Al descargar, instalar o usar la aplicación MaoDesign, aceptas estar sujeto a estos Términos de Servicio. Si no estás de acuerdo con cualquier parte de estos términos, no debes usar la aplicación.
+MaoDesign es una aplicación Android para abrir, crear y editar bordados. Admite texto, imagen y trazo libre, capas e hilos, simulación, guardado, exportación y uso compartido. Los formatos de diseño anunciados para apertura son **DST, HUS, JEF, PEC, PES y XXX**. Algunos formatos u operaciones pueden conservar menos metadatos que el original.
 
-## 📲 Descripción del Servicio
+El servicio puede evolucionar, corregir fallos, cambiar límites o retirar funciones respetando derechos adquiridos y la ley aplicable.
 
-### ✅ Características Gratuitas
-- Visualización de archivos de bordado en 9 formatos (PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR)
-- Zoom y navegación en diseños
-- Información básica sobre el bordado
-- Hasta 5 favoritos guardados
+## 2. Cuenta
 
-### 💎 Características Premium (Suscripción)
-- Eliminación de anuncios
-- Favoritos ilimitados
-- Características avanzadas de visualización
-- Soporte prioritario
+Las funciones principales pueden usarse sin cuenta. El acceso con Google es opcional. Eres responsable de la seguridad de tu cuenta Google y de la actividad en tu dispositivo. No accedas a cuentas o datos ajenos.
 
-## 🔐 Cuenta de Usuario
+Elimina la cuenta en **Perfil > Eliminar cuenta**; consulta la [página de eliminación]({{ '/Legal/delete-account-es/' | relative_url }}). La eliminación no borra automáticamente archivos locales ni cancela suscripciones Google Play.
 
-### Creación de Cuenta
-- Puedes usar la aplicación sin crear una cuenta
-- Para características avanzadas y sincronización, se requiere una cuenta
-- Eres responsable de mantener la confidencialidad de tus credenciales
+## 3. Gratuito y Premium
 
-### Responsabilidades del Usuario
-- Proporcionar información precisa durante el registro
-- Mantener tus credenciales seguras
-- Notificarnos inmediatamente sobre uso no autorizado
+El plan gratuito se financia con anuncios y puede aplicar límites, incluidos hasta **3 favoritos**. Premium puede eliminar anuncios y ampliar límites de textos, imágenes, fuentes y favoritos según la pantalla de suscripción.
 
-## 💰 Modelo de Negocio
+Las suscripciones mensuales o anuales se cobran y renuevan por Google Play hasta cancelarlas. El checkout determina precio, periodo, prueba y condiciones vigentes. Cancela en **Google Play > Pagos y suscripciones > Suscripciones**. El acceso continúa según Google Play y la ley aplicable.
 
-### Versión Gratuita
-- Soportada por anuncios
-- Limitaciones en algunas características
-- Acceso a características básicas
+## 4. Tus archivos y contenido
 
-### Suscripción Premium
-- Pago mensual o anual
-- Cancelar en cualquier momento
-- Renovación automática hasta cancelar
+Conservas los derechos sobre archivos, textos, imágenes y diseños. Otorgas solo el permiso técnico necesario para abrir, editar, renderizar, guardar y exportar localmente según tus acciones.
 
-## 📱 Uso Adecuado
+Declaras tener autorización para usar el contenido y respondes por derechos de autor, marcas, privacidad y otros derechos. No uses la aplicación para contenido ilegal, malicioso o infractor.
 
-### ✅ Usos Permitidos
-- Visualización personal de archivos de bordado
-- Uso educativo y profesional
-- Compartir contenido de manera responsable
+## 5. Licencia
 
-### ❌ Usos Prohibidos
-- Distribución de malware o contenido malicioso
-- Intentos de hackear o comprometer la aplicación
-- Uso para actividades ilegales
-- Violación de derechos de autor de terceros
+Recibes una licencia personal, limitada, revocable, no exclusiva e intransferible. No eludas pagos o límites, explotes vulnerabilidades, interfieras con servicios, redistribuyas versiones modificadas no autorizadas ni perjudiques a terceros.
 
-## 🔒 Privacidad y Datos
+## 6. Seguridad de máquina
 
-Esta aplicación recopila y procesa datos según se describe en nuestra [Política de Privacidad](privacy-policy-es.md). Al usar la aplicación, también aceptas nuestra política de privacidad.
+Vista previa y simulación son ayudas. Los formatos tienen límites y las máquinas pueden interpretar comandos de forma distinta. Antes de producir, verifica dimensiones, bastidor, hilo, aguja y tejido y realiza una prueba. Conserva copias de archivos importantes.
 
-## 📊 Anuncios
+## 7. Servicios de terceros
 
-### Visualización de Anuncios
-- Los anuncios se muestran en la versión gratuita
-- Usamos SDKs de terceros para anuncios (IronSource)
-- Puedes eliminar anuncios a través de la suscripción premium
+Google/Firebase, Google Play y Unity LevelPlay/IronSource pueden proporcionar autenticación, diagnóstico, Analytics, pago, evaluación y publicidad. Sus superficies también se rigen por sus términos.
 
-### Interacción con Anuncios
-- La interacción con anuncios es opcional
-- No somos responsables del contenido de anuncios de terceros
+## 8. Disponibilidad y responsabilidad
 
-## 🔄 Actualizaciones
+La aplicación se ofrece según disponibilidad. Buscamos estabilidad, pero no garantizamos funcionamiento ininterrumpido, compatibilidad con todo archivo o máquina ni ausencia total de errores. En la medida permitida por ley, no respondemos por pérdidas indirectas causadas por uso inadecuado, falta de copias o producción sin prueba. Estos Términos no eliminan derechos obligatorios del consumidor ni responsabilidades que la ley no permita limitar.
 
-### Actualizaciones de la Aplicación
-- Podemos actualizar la aplicación regularmente
-- Algunas actualizaciones pueden ser obligatorias para continuar usando
-- Nuevas características pueden ser añadidas o eliminadas
+## 9. Cambios y contacto
 
-### Cambios en los Términos
-- Podemos modificar estos términos ocasionalmente
-- Notificaremos sobre cambios significativos
-- El uso continuado después de los cambios constituye aceptación
+El acceso en línea puede restringirse por fraude, abuso, ataques o exigencia legal. Los cambios relevantes se publicarán aquí y podrán anunciarse en la aplicación. Se aplica la ley brasileña sin excluir protecciones obligatorias del lugar de residencia del consumidor.
 
-## 🚫 Suspensión y Cancelación
+**Responsable:** Savio Macedo
 
-### Suspensión de Cuenta
-- Podemos suspender cuentas por violar estos términos
-- Intentos de fraude o abuso resultarán en suspensión
-- Serás notificado sobre suspensiones cuando sea posible
+**Contacto:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
-### Cancelación de Suscripción
-- Puedes cancelar tu suscripción en cualquier momento
-- La cancelación se puede hacer a través de la configuración de la cuenta
-- El acceso premium continúa hasta el final del período pagado
-
-## ⚖️ Limitación de Responsabilidad
-
-### Exención de Garantías
-- La aplicación se proporciona "como está"
-- No garantizamos operación ininterrumpida o libre de errores
-- No somos responsables por pérdida de datos
-
-### Limitación de Daños
-- Nuestra responsabilidad está limitada al máximo permitido por ley
-- No somos responsables por daños indirectos o consecuenciales
-- En caso de daños, la responsabilidad está limitada al valor de la suscripción
-
-## 🌍 Jurisdicción y Ley Aplicable
-
-- Estos términos se rigen por las leyes brasileñas
-- Las disputas se resolverán en tribunales competentes de Brasil
-- Para usuarios de la UE, también se aplican las leyes locales de protección al consumidor
-
-## 📞 Contacto
-
-Para preguntas sobre estos Términos de Servicio:
-
-**📧 Email:** saviomacedo.dev@gmail.com  
-**🌐 Website:** [maodesign.com.br](https://maodesign.com.br)  
-**📱 Google Play:** [MaoDesign en Play Store](https://play.google.com/store/apps/details?id=com.saviomacedo.maodesign)
-
----
-
-## 📋 Historial de Versiones
-
-| Fecha | Versión | Cambios |
-|-------|---------|---------|
-| 17/01/2025 | 1.0 | Versión inicial de los Términos de Servicio |
-
----
-
-**© 2025 Savio Macedo. Todos los derechos reservados.**
+**Ayuda:** [Centro de Ayuda]({{ '/Legal/help-es/' | relative_url }})

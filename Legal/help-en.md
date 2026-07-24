@@ -1,152 +1,58 @@
 ---
 layout: legal
 title: "Help Center"
-description: "Help Center for MaoDesign - Embroidery Viewer application"
+description: "Help for using MaoDesign"
 lang: en-US
 permalink: /Legal/help-en/
 ---
 
-# ❓ Help Center - MaoDesign
+# MaoDesign Help Center
 
-**Last updated:** April 28, 2026
+**Last updated:** July 23, 2026
 
----
+## What the app does
 
-## 📱 What is MaoDesign?
+MaoDesign opens, creates, and edits embroidery designs on Android. Add text, images, and freehand strokes; organize layers and threads; simulate, save, export, and share.
 
-**MaoDesign** is a free embroidery file viewer for Android. With it, you can open, view, and explore embroidery designs in various popular formats.
+## Design formats
 
----
+The opening flow accepts **DST, HUS, JEF, PEC, PES, and XXX**. EDR is only an auxiliary palette and is not a complete embroidery design. Some formats preserve less thread or metadata information.
 
-## 🎯 Supported Formats
+## Open or create
 
-MaoDesign supports the following embroidery file formats:
+- Tap **Open Embroidery File** to use the Android picker.
+- Tap **Create new embroidery** to select a hoop and start an empty project.
+- Recognized formats may also open from the Android file manager.
 
-| Format | Description |
-|--------|-------------|
-| **PES** | Brother / Babylock |
-| **JEF** | Janome |
-| **HUS** | Husqvarna Viking |
-| **DST** | Tajima |
-| **XXX** | Singer / Compucon |
-| **PEC** | Brother / Babylock (compact) |
-| **BIN** | Babylock (binary) |
-| **EXP** | Melco |
-| **EDR** | Embird (color palette) |
+## Editor
 
----
+Use **Add** for text, image, or stroke. Use **Layers** to select/order elements and **Threads** to review colors. Simulation helps inspect sequence, but always test on the machine before final production.
 
-## 📂 How to Open an Embroidery File
+## Files and favorites
 
-1. Tap **Open File** on the home screen
-2. Navigate to the folder where the file is saved
-3. Select the desired embroidery file
-4. The design will be displayed in the viewer
+Files, thumbnails, recent history, and favorites stay on the device. Free allows up to **3 favorites**; Premium expands the limit. Uninstalling or clearing app data may erase local content, so keep copies of important work.
 
-**Tip:** You can also open embroidery files directly from your device's file manager.
+## Account and subscription
 
----
+Google sign-in is optional. Embroidery designs and favorites remain only on the device where they were saved. Premium is managed by Google Play. Cancel under **Google Play > Payments & subscriptions > Subscriptions**.
 
-## 🔍 Viewer Navigation
+Delete the account under **Profile > Delete account** or see the [deletion page]({{ '/Legal/delete-account-en/' | relative_url }}). Account deletion does not cancel Premium or remove local files.
 
-- **Zoom**: Use the pinch gesture (two fingers) to zoom in or out
-- **Move**: Drag with one finger to move the design around
-- **Reset**: Tap the reset button to return to the original view
+## Privacy
 
----
+Change collection under **Settings > Data Collection Level**. Essential sends crash diagnostics; Analytics and personalization depend on your choice. See the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}).
 
-## ⭐ Saved Embroideries
+## Troubleshooting
 
-### Free Version
-- You can save up to **5 embroideries** as bookmarks
-- Access your saved items in the **Saved Embroideries** section on the home screen
+- **File will not open:** confirm the format, try another copy, and check for corruption.
+- **Sign-in fails:** confirm internet access and an available Google account.
+- **Premium is missing:** open Premium and restore/refresh the purchase using the same Google Play account.
+- **App is slow:** close other apps, free storage, and reduce very large image complexity.
+- **Deletion requires sign-in:** sign in again and repeat because Firebase may require recent authentication.
 
-### Premium Version
-- Save **unlimited embroideries**
-- Sync your bookmarks across devices
+## Contact
 
----
+**Email:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
-## 🔐 User Account
-
-### Do I need to create an account?
-No! You can use MaoDesign without creating an account. However, an account allows you to:
-- Sync saved embroideries
-- Access advanced features
-- Keep your preferences across devices
-
-### How to create an account
-1. Tap the profile icon on the home screen
-2. Choose **Sign In** or **Create Account**
-3. Follow the on-screen instructions
-
----
-
-## ⚙️ Settings
-
-### Language
-MaoDesign is available in:
-- 🇧🇷 Português (Brasil)
-- 🇺🇸 English
-- 🇪🇸 Español
-
-To change the language, go to **Settings** > **Language**.
-
-### Display Mode
-Customize how embroideries are displayed in the viewer through **Display Settings**.
-
----
-
-## 💎 Premium Subscription
-
-### What's included?
-- ✅ Ad removal
-- ✅ Unlimited saved embroideries
-- ✅ Advanced viewing features
-- ✅ Priority support
-
-### How to subscribe?
-1. Go to **Settings** in the app
-2. Tap **Premium**
-3. Choose your plan and confirm the purchase
-
-### How to cancel?
-Cancellation is done directly through the **Google Play Store**:
-1. Open the Google Play Store
-2. Tap your profile icon > **Payments & subscriptions** > **Subscriptions**
-3. Find MaoDesign and tap **Cancel subscription**
-
----
-
-## 🔧 Troubleshooting
-
-### File won't open
-- Check if the format is supported (PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR)
-- Make sure the file is not corrupted
-- Try opening another file to check if the issue persists
-
-### App is slow
-- Close other apps running in the background
-- Check that there is free space on your device
-- Update the app to the latest version
-
-### Login error
-- Check your internet connection
-- Make sure you are using the correct credentials
-- Try resetting your password
-
----
-
-## 📞 Contact & Support
-
-If you didn't find the answer to your question, please contact us:
-
-- **Email:** saviom.cedo@hotmail.com
-- **Response time:** Up to 48 business hours
-
----
-
-## 📄 Legal Documents
-
-- [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }})
-- [Terms of Service]({{ '/Legal/terms-of-service-en/' | relative_url }})
+- [Terms of Use]({{ '/Legal/terms-of-service-en/' | relative_url }})
+- [Account Deletion]({{ '/Legal/delete-account-en/' | relative_url }})

@@ -1,286 +1,72 @@
 ---
 layout: legal
 title: "Privacy Policy"
-description: "Complete Privacy Policy for MaoDesign - Embroidery Viewer application"
+description: "How MaoDesign handles data in the Android app"
 lang: en-US
 permalink: /Legal/privacy-policy-en/
 ---
 
-# Privacy Policy - MaoDesign
+# MaoDesign Privacy Policy
 
-**Last updated**: June 19, 2025  
-**Version**: 1.0  
-**Effective**: From June 19, 2025
+**Last updated:** July 23, 2026
 
----
+**Version:** 2.0
 
-## 1. Company Identification
+**Applies to:** MaoDesign for Android, version 18 and later
 
-**Company Name**: Savio Macedo  
-**Application**: MaoDesign - Embroidery Viewer  
-**Version**: 11.2.0+  
-**Platform**: Android (Google Play Store)  
-**Contact**: saviom.cedo@hotmail.com  
+MaoDesign is operated by **Savio Macedo**. Contact: [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com).
 
----
+## 1. Summary
 
-## 2. Purpose of this Policy
+- Core features can be used without an account.
+- Embroidery files, thumbnails, favorites, recent files, and preferences remain on the device and are not uploaded to a server operated by MaoDesign.
+- Google sign-in is optional and uses Firebase Authentication.
+- Technical crash reports are the Essential level. Firebase Analytics and ad personalization depend on the choice made in the app.
+- Change the choice under **Settings > Data Collection Level**.
+- Delete an account under **Profile > Delete account** or through the [public deletion page]({{ '/Legal/delete-account-en/' | relative_url }}).
 
-This Privacy Policy establishes how MaoDesign collects, uses, stores, shares and protects your personal information, in compliance with:
+## 2. Local data
 
-- **General Data Protection Law (LGPD)** - Law No. 13.709/2018 (Brazil)
-- **General Data Protection Regulation (GDPR)** - Regulation (EU) 2016/679 (European Union)
-- **Internet Civil Rights Framework** - Law No. 12.965/2014 (Brazil)
+The app may keep files and thumbnails, technical file metadata, favorites, recent history, language and display preferences, hint/review/consent state, and local subscription state including a technical Google Play purchase token. This data operates the editor and preserves preferences.
 
----
+Android cloud backup and device transfer of MaoDesign private data are disabled. Uninstalling the app or clearing app data may erase this content. When sharing or exporting, you choose the external app that receives the file.
 
-## 3. Data Collected
+## 3. Google account and Firebase
 
-### 3.1 Data Provided Directly by User
+When you choose **Sign in with Google**, Google Credential Manager and Firebase Authentication process a Firebase identifier, name, email, photo, and technical session tokens. MaoDesign does not receive or store your Google password.
 
-#### 3.1.1 Authentication Data (Auth0)
-- **Email**: For account creation and access
-- **Username**: For identification within the app
-- **Password**: Stored encrypted by Auth0
-- **Profile picture**: Optional, provided by user
+For signed-in users, Firebase Firestore may hold markers under `users/{uid}/aha_markers`, including the moment type, server timestamp, and technical metadata. They prevent repeated prompts and record completion of relevant flows.
 
-#### 3.1.2 Personalization Data
-- **Language preferences**: Portuguese, English or Spanish
-- **App settings**: Theme, notifications, etc.
-- **Bookmarks**: Saved favorite embroideries (limit 5 for free users)
+## 4. Essential crash reports
 
-### 3.2 Automatically Collected Data
+Firebase Crashlytics receives diagnostics used for security and stability. Depending on the failure, data may include app version, device model and technical state, Android version, stack trace, error message, and operation context. MaoDesign does not intentionally attach embroidery file content. Debug builds do not send reports to Crashlytics.
 
-#### 3.2.1 Usage and Navigation Data
-- **Access logs**: Usage times, accessed features
-- **Navigation data**: Pages visited, time spent
-- **Interactions**: Clicks, taps, gestures within the app
+## 5. Optional Analytics
 
-#### 3.2.2 Device Data
-- **Device information**: Model, operating system, version
-- **Unique identifiers**: Device ID (for analytics purposes)
-- **Network data**: IP address, internet provider
+If you choose **Analytics** or **Full**, Firebase Analytics may receive usage events, screens, operation outcomes, version, language, and technical properties. A Firebase identifier may be associated when signed in. Analytics stays disabled until an explicit choice.
 
-#### 3.2.3 File Data
-- **Embroidery files**: PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR formats
-- **Metadata**: Technical file information (size, creation date)
-- **File location**: Only in device local storage
+## 6. Optional advertising
 
-### 3.3 Third-party Data
+Free users may see ads from **Unity LevelPlay/IronSource** and partner networks. Providers may process advertising ID, IP address, device characteristics, approximate region, and ad interactions. MaoDesign grants ad data and personalization consent only at the **Full** level and requests limited treatment at other levels when supported. Premium removes ads.
 
-#### 3.3.1 Firebase Analytics
-- **Usage events**: App opening, features used
-- **Performance data**: Crashes, errors, response time
-- **Demographic data**: Region, language, app version
+## 7. Purchases and subscriptions
 
-#### 3.3.2 IronSource (Advertising)
-- **Advertising data**: Ad display, clicks, interactions
-- **Advertising profile**: Based on usage behavior (free users only)
+**Google Play Billing** processes payments and purchase history. MaoDesign receives product, status, and a technical purchase token to unlock and restore Premium, but not the full card number. Deleting a MaoDesign account does not cancel a subscription; cancel separately under **Google Play > Payments & subscriptions > Subscriptions**.
 
----
+## 8. Providers and international processing
 
-## 4. Processing Purposes
+MaoDesign does not sell personal data. Data may be processed by Google/Firebase for authentication, Firestore, Crashlytics, and Analytics; Google Play for distribution, purchases, subscriptions, and in-app review; and Unity LevelPlay/IronSource and partner networks for free-user advertising. Providers may process data internationally and apply their own retention, safeguards, and legal duties.
 
-### 4.1 Legitimate Purposes
+## 9. Retention and deletion
 
-#### 4.1.1 Contract Execution
-- **Authentication**: Verify identity and allow access
-- **Features**: Embroidery viewing, bookmarks, settings
-- **Support**: Technical problem resolution
+Local data remains until removed, app data is cleared, or the app is uninstalled. Firebase identity and linked markers remain while the account exists. Crashlytics, Analytics, advertising, and purchase data follow provider retention and legal requirements.
 
-#### 4.1.2 Legitimate Interests
-- **Product improvement**: Usage analysis for development
-- **Security**: Fraud and suspicious activity detection
-- **Performance**: Feature optimization
+In-app deletion removes Firestore markers, deletes the Firebase identity, and clears local sign-in credentials. Local files and favorites are preserved. Firebase may require recent sign-in. See the [deletion details]({{ '/Legal/delete-account-en/' | relative_url }}).
 
-#### 4.1.3 Consent
-- **Advertising**: Personalized ad display (free users)
-- **Analytics**: Usage data collection for improvements
-- **Communication**: Update notifications (optional)
+## 10. Rights, children, and security
 
-### 4.2 We Do NOT Use Data For
+You may use the app without signing in, change collection level, sign out, and delete the account. Send access, correction, objection, or deletion requests to **saviomacedo.dev@gmail.com**; identity verification may be required.
 
-- ❌ Sale or sharing with unauthorized third parties
-- ❌ Spam or unsolicited communications
-- ❌ Discrimination or harmful profiling
-- ❌ Monitoring activities outside the app
+MaoDesign is not specifically directed to children. Guardians should supervise Google accounts and purchases. We use provider HTTPS, per-user Firestore rules, and consent controls without claiming guarantees beyond those actually provided.
 
----
-
-## 5. Storage and Retention
-
-### 5.1 Storage Locations
-
-#### 5.1.1 Local Storage (SQLite)
-- **Data**: Bookmarks, settings, file cache
-- **Location**: User's device
-- **Encryption**: Sensitive data encrypted
-
-#### 5.1.2 Cloud Storage
-- **Auth0**: Authentication data (secure servers)
-- **Firebase**: Analytics and performance data
-- **IronSource**: Advertising data (free users only)
-
-### 5.2 Retention Periods
-
-| Data Type | Retention Period | Justification |
-|-----------|------------------|---------------|
-| **Account data** | Until account deletion | Required for functionality |
-| **Access logs** | 12 months | Security and support |
-| **Analytics data** | 24 months | Product improvement |
-| **Advertising data** | 90 days | Ad personalization |
-| **Support data** | 5 years | Legal obligation |
-
----
-
-## 6. Data Sharing
-
-### 6.1 Authorized Partners
-
-#### 6.1.1 Auth0 (Authentication)
-- **Shared data**: Email, name, login data
-- **Purpose**: Secure authentication and account management
-- **Location**: Certified secure servers
-
-#### 6.1.2 Firebase (Google)
-- **Shared data**: Analytics, crashes, performance
-- **Purpose**: Improve stability and features
-- **Location**: Certified Google Cloud servers
-
-#### 6.1.3 IronSource (Advertising)
-- **Shared data**: Advertising data (free users)
-- **Purpose**: Display relevant ads
-- **Location**: Certified advertising servers
-
-### 6.2 Sharing Situations
-
-#### 6.2.1 Legal Obligation
-- Court order, security warrant
-- Request from competent authorities
-- Compliance with applicable laws
-
-#### 6.2.2 Rights Protection
-- Protection against fraud
-- Legal defense
-- User security protection
-
----
-
-## 7. Data Subject Rights
-
-### 7.1 Guaranteed Rights (LGPD/GDPR)
-
-#### 7.1.1 Access Rights
-- ✅ **Confirmation**: Know if your data is processed
-- ✅ **Access**: Obtain copy of your data
-- ✅ **Correction**: Correct incomplete or incorrect data
-- ✅ **Portability**: Receive data in structured format
-
-#### 7.1.2 Control Rights
-- ✅ **Deletion**: Request data removal
-- ✅ **Opposition**: Object to processing
-- ✅ **Limitation**: Limit processing
-- ✅ **Revocation**: Withdraw consent at any time
-
-### 7.2 How to Exercise Your Rights
-
-#### 7.2.1 Within the App
-- **Settings**: Access and correction of basic data
-- **Profile**: Personal information changes
-- **Account deletion**: Complete account removal
-
-#### 7.2.2 Direct Contact
-- **Email**: saviom.cedo@hotmail.com
-- **Response time**: Up to 15 business days
-- **Documentation**: Identity verification may be required
-
----
-
-## 8. Data Security
-
-### 8.1 Technical Measures
-
-#### 8.1.1 Encryption
-- **Data in transit**: HTTPS/TLS 1.3
-- **Data at rest**: AES-256
-- **Passwords**: bcrypt hashing
-
-#### 8.1.2 Access Controls
-- **Authentication**: Multi-factor when available
-- **Authorization**: Principle of least privilege
-- **Logs**: Access auditing
-
-### 8.2 Organizational Measures
-
-#### 8.2.1 Internal Policies
-- **Training**: Privacy awareness
-- **Procedures**: Incident response
-- **Audits**: Periodic reviews
-
-#### 8.2.2 Suppliers
-- **Contracts**: Data protection clauses
-- **Certifications**: ISO 27001, SOC 2
-- **Monitoring**: Continuous assessment
-
----
-
-## 9. Contact and Support
-
-### 9.1 Data Protection Officer (DPO)
-
-**Name**: Savio Macedo  
-**Role**: Developer and Data Protection Officer  
-**Email**: saviom.cedo@hotmail.com  
-**GitHub**: https://github.com/SavioMacedo
-
-### 9.2 Support Channels
-
-#### 9.2.1 Data Requests
-- **Email**: saviom.cedo@hotmail.com
-- **Response time**: 15 business days
-- **Format**: Structured response
-
-#### 9.2.2 Complaints
-- **App**: Support section
-- **Email**: saviom.cedo@hotmail.com
-- **Authorities**: ANPD (Brazil), local authorities (EU)
-
----
-
-## 10. Commitment Statement
-
-### 10.1 Company Commitments
-
-We, at MaoDesign, commit to:
-
-- ✅ **Transparency**: Clearly inform about data processing
-- ✅ **Security**: Implement best protection practices
-- ✅ **Respect**: Honor all data subject rights
-- ✅ **Compliance**: Comply with all applicable laws
-- ✅ **Improvement**: Continuously enhance our practices
-
-### 10.2 Certification
-
-This policy was prepared in compliance with:
-- **LGPD** (Law No. 13.709/2018)
-- **GDPR** (Regulation EU 2016/679)
-- **International** privacy best practices
-
----
-
-**Valid from**: June 19, 2025  
-**Next review**: June 19, 2026  
-**Version**: 1.0
-
----
-
-<div align="center">
-
-**MaoDesign - Embroidery Viewer**  
-*Your privacy is our priority*
-
-**📞 Contact**: saviom.cedo@hotmail.com  
-**🌐 GitHub**: https://github.com/SavioMacedo  
-**📱 Google Play**: [coming soon]
-
-</div>
+This policy may change when features, providers, or laws change. Material changes may require a new consent choice.

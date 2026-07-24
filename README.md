@@ -1,143 +1,29 @@
-# 📋 MaoDesign - Documentos Legais
+# MaoDesign — Documentos Públicos
 
-Este repositório público contém todos os documentos legais do aplicativo **MaoDesign - Visualizador de Bordados**.
+Repositório das páginas públicas do aplicativo MaoDesign para Android.
 
-## 📱 Sobre o MaoDesign
+## Documentos
 
-O **MaoDesign** é um aplicativo Android gratuito para visualização de arquivos de bordado, desenvolvido por **Savio Macedo**. Suporta 9 formatos populares de bordado e oferece funcionalidades avançadas com modelo freemium.
+Cada documento é publicado em português, inglês e espanhol:
 
-### 🎯 Características Principais
-- ✅ **9 Formatos Suportados**: PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR
-- ✅ **Multiplataforma**: Android (iOS em desenvolvimento)
-- ✅ **Freemium**: Funcionalidades básicas gratuitas, premium remove anúncios
-- ✅ **Open Source**: Código aberto no GitHub
-- ✅ **Multi-idioma**: Português, Inglês, Espanhol
+- política de privacidade;
+- termos de uso;
+- exclusão de conta;
+- central de ajuda.
 
-## 📋 Documentos Disponíveis
+A página inicial publicada lista todos os permalinks. O aplicativo abre diretamente as versões localizadas hospedadas pelo GitHub Pages.
 
-### 📄 Políticas de Privacidade
-- 🇧🇷 [**Português**](Legal/privacy-policy.md) - Política de Privacidade completa
-- 🇺🇸 [**English**](Legal/privacy-policy-en.md) - Complete Privacy Policy  
-- 🇪🇸 [**Español**](Legal/privacy-policy-es.md) - Política de Privacidad completa
+## Contrato atual
 
-### 📜 Termos de Uso
-- 🇧🇷 [**Português**](Legal/terms-of-service.md) - Termos de Uso completos
-- 🇺🇸 [**English**](Legal/terms-of-service-en.md) - Complete Terms of Service  
-- 🇪🇸 [**Español**](Legal/terms-of-service-es.md) - Términos de Servicio completos
+- Formatos de desenho anunciados: DST, HUS, JEF, PEC, PES e XXX.
+- As funções principais podem ser usadas sem conta.
+- Login opcional via Google/Firebase.
+- Arquivos e favoritos permanecem somente no dispositivo onde foram salvos.
+- Assinaturas são gerenciadas pelo Google Play.
+- Conta e dados vinculados podem ser excluídos pelo aplicativo ou por solicitação pública.
 
-## 🌐 URLs Diretas
+## Atualização
 
-### Para Integração no App
+Ao mudar fornecedores, coleta, autenticação, formatos, assinatura ou exclusão de conta no aplicativo, revise as três traduções antes da publicação.
 
-```csharp
-// URLs para carregar documentos diretamente no aplicativo
-
-// Políticas de Privacidade
-private const string PRIVACY_POLICY_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy.md";
-private const string PRIVACY_POLICY_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-en.md";  
-private const string PRIVACY_POLICY_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/privacy-policy-es.md";
-
-// Termos de Uso
-private const string TERMS_OF_SERVICE_PT = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service.md";
-private const string TERMS_OF_SERVICE_EN = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service-en.md";
-private const string TERMS_OF_SERVICE_ES = "https://raw.githubusercontent.com/SavioMacedo/MaoDesign/refs/heads/main/Legal/terms-of-service-es.md";
-```
-
-## ✅ Compliance e Certificações
-
-### 🇧🇷 LGPD (Brasil)
-- ✅ Identificação completa da empresa
-- ✅ Finalidades detalhadas do tratamento
-- ✅ Direitos dos titulares garantidos
-- ✅ Contato do encarregado (DPO)
-- ✅ Períodos de retenção definidos
-- ✅ Políticas de compartilhamento
-
-### 🇪🇺 GDPR (União Europeia)  
-- ✅ Bases legais para processamento
-- ✅ Direitos dos titulares (GDPR Art. 15-22)
-- ✅ Transferências internacionais
-- ✅ Contato do DPO designado
-- ✅ Políticas de cookies transparentes
-- ✅ Proteção especial para menores
-
-### 🌍 Boas Práticas Internacionais
-- ✅ Linguagem clara e acessível
-- ✅ Múltiplos idiomas (PT, EN, ES)
-- ✅ Versionamento e controle de mudanças
-- ✅ Acesso online direto e gratuito
-- ✅ Formato estruturado e navegável
-
-## 🔄 Histórico de Versões
-
-| Versão | Data | Mudanças |
-|--------|------|----------|
-| **1.0** | 19/06/2025 | 🎉 Lançamento inicial - Política de Privacidade em 3 idiomas |
-
-## 📞 Contato e Suporte
-
-### 👨‍💻 Desenvolvedor e DPO
-**Nome**: Savio Macedo  
-**Função**: Desenvolvedor e Encarregado de Dados  
-**E-mail**: saviom.cedo@hotmail.com  
-**GitHub**: [@SavioMacedo](https://github.com/SavioMacedo)
-
-### 🏢 Informações da Empresa
-**Razão Social**: Savio Macedo  
-**Aplicativo**: MaoDesign - Visualizador de Bordados  
-**Plataforma**: Android (Google Play Store)  
-**Versão**: 11.2.0+
-
-### 📧 Suporte
-- **Privacidade**: saviom.cedo@hotmail.com
-- **Suporte Técnico**: saviom.cedo@hotmail.com  
-- **Prazo de Resposta**: 15 dias úteis
-
-## 🎯 Roadmap
-
-### ✅ Concluído
-- [x] **Issue #41**: Política de Privacidade
-  - [x] Compliance LGPD/GDPR completo
-  - [x] Suporte a 3 idiomas (PT, EN, ES)
-  - [x] Estrutura versionada e controlada
-
-### 🔄 Em Desenvolvimento  
-- [ ] **Issue #42**: Termos de Uso
-  - [ ] Definir direitos e responsabilidades
-  - [ ] Licenciamento do aplicativo
-  - [ ] Limitações e garantias legais
-  - [ ] Múltiplos idiomas
-
-### 📋 Planejado
-- [ ] **Implementação no App**
-  - [ ] Criar `LegalDocumentService`
-  - [ ] Implementar páginas de visualização
-  - [ ] Integrar nas configurações do app
-  - [ ] Aceite obrigatório no primeiro uso
-
-## 🔗 Links Importantes
-
-- 🏠 **Repositório Principal**: [SavioMacedo/MaoDesign](https://github.com/SavioMacedo/MaoDesign) (Público)
-- 📋 **Documentos Legais**: Pasta `/Legal/` neste repositório
-- 📱 **Google Play**: [Em breve]
-- 🌐 **Website**: [Em desenvolvimento]
-
-## 📜 Licença
-
-Este repositório de documentos legais está sob licença **Creative Commons Attribution 4.0 International**.
-
-Os documentos podem ser:
-- ✅ **Visualizados** livremente
-- ✅ **Compartilhados** com atribuição
-- ✅ **Referenciados** em implementações
-
----
-
-<div align="center">
-
-**📱 MaoDesign - Visualizador de Bordados**  
-*Sua privacidade é nossa prioridade*
-
-**Última Atualização**: 19 de junho de 2025 • **Versão**: 1.0
-
-</div>
+**Contato:** saviomacedo.dev@gmail.com

@@ -1,147 +1,65 @@
 ---
 layout: legal
-title: "Terms of Service"
-description: "Complete Terms of Service for MaoDesign - Embroidery Viewer application"
+title: "Terms of Use"
+description: "Terms for using the MaoDesign application"
 lang: en-US
 permalink: /Legal/terms-of-service-en/
 ---
 
-# 📋 Terms of Service - MaoDesign
+# MaoDesign Terms of Use
 
-**Last updated:** January 17, 2025
+**Last updated:** July 23, 2026
 
-## 📱 About the Application
+**Version:** 2.0
 
-**MaoDesign - Embroidery Viewer** is a free application developed by **Savio Macedo** for viewing embroidery files. By using our application, you agree to these terms.
+By installing or using MaoDesign, you agree to these Terms and the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}). If you disagree, do not use the app.
 
-## 🎯 Acceptance of Terms
+## 1. Service
 
-By downloading, installing, or using the MaoDesign application, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you should not use the application.
+MaoDesign is an Android app for opening, creating, and editing embroidery designs. It supports text, image, and freehand stroke workflows, layers and threads, simulation, saving, exporting, and sharing. Publicly advertised design formats for opening are **DST, HUS, JEF, PEC, PES, and XXX**. Some formats or operations may preserve less metadata than the source.
 
-## 📲 Service Description
+The service may evolve, fix defects, change limits, or remove features while respecting acquired rights and applicable law.
 
-### ✅ Free Features
-- Viewing embroidery files in 9 formats (PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR)
-- Zoom and navigation in designs
-- Basic information about embroidery
-- Up to 5 saved bookmarks
+## 2. Account
 
-### 💎 Premium Features (Subscription)
-- Ad removal
-- Unlimited bookmarks
-- Advanced viewing features
-- Priority support
+Core features can be used without an account. Google sign-in is optional. You are responsible for Google account security and activity on your device. Do not access another person's account or data.
 
-## 🔐 User Account
+Delete a MaoDesign account under **Profile > Delete account**; see the [deletion page]({{ '/Legal/delete-account-en/' | relative_url }}). Account deletion does not automatically remove local files or cancel Google Play subscriptions.
 
-### Account Creation
-- You can use the application without creating an account
-- For advanced features and synchronization, an account is required
-- You are responsible for maintaining the confidentiality of your credentials
+## 3. Free and Premium
 
-### User Responsibilities
-- Provide accurate information during registration
-- Keep your credentials secure
-- Notify us immediately of unauthorized use
+The free plan is ad-supported and may enforce limits, including up to **3 favorites**. Premium may remove ads and expand text, image, font, and favorite limits as displayed on the subscription screen.
 
-## 💰 Business Model
+Monthly or annual subscriptions are charged and renewed by Google Play until canceled. The checkout controls the valid price, period, trial, and terms. Cancel under **Google Play > Payments & subscriptions > Subscriptions**. Access continues according to Google Play rules and applicable law.
 
-### Free Version
-- Supported by advertisements
-- Limitations on some features
-- Access to basic features
+## 4. Your files and content
 
-### Premium Subscription
-- Monthly or annual payment
-- Cancel anytime
-- Auto-renewal until cancelled
+You retain rights to files, text, images, and designs you use. You grant only the technical permission needed to open, edit, render, save, and export locally according to your actions.
 
-## 📱 Proper Use
+You represent that you may use the content and are responsible for copyright, trademarks, privacy, and other third-party rights. Do not use the app for illegal, malicious, or infringing content.
 
-### ✅ Permitted Uses
-- Personal viewing of embroidery files
-- Educational and professional use
-- Responsible content sharing
+## 5. App license
 
-### ❌ Prohibited Uses
-- Distribution of malware or malicious content
-- Attempts to hack or compromise the application
-- Use for illegal activities
-- Violation of third-party copyrights
+You receive a personal, limited, revocable, non-exclusive, non-transferable license to use MaoDesign. Do not bypass payments or limits, exploit vulnerabilities, interfere with services, redistribute unauthorized modified versions, or harm others.
 
-## 🔒 Privacy and Data
+## 6. Machine safety
 
-This application collects and processes data as described in our [Privacy Policy](privacy-policy-en.md). By using the application, you also agree to our privacy policy.
+Preview and simulation are aids. Embroidery formats have limits and machines may interpret commands differently. Before final production, verify dimensions, hoop, thread, needle, and fabric, and perform a test stitch. Keep backups of important files.
 
-## 📊 Advertisements
+## 7. Third-party services
 
-### Ad Display
-- Ads are displayed in the free version
-- We use third-party SDKs for ads (IronSource)
-- You can remove ads through premium subscription
+Google/Firebase, Google Play, and Unity LevelPlay/IronSource may provide authentication, diagnostics, Analytics, payment, review, and advertising. Their surfaces are also subject to provider terms.
 
-### Ad Interaction
-- Interaction with ads is optional
-- We are not responsible for third-party ad content
+## 8. Availability and liability
 
-## 🔄 Updates
+The app is provided as available. We seek stability but do not guarantee uninterrupted operation, compatibility with every file or machine, or complete absence of errors. To the extent allowed by law, we are not liable for indirect loss caused by misuse, missing backups, or production without testing. These Terms do not exclude mandatory consumer rights or liability that cannot legally be limited.
 
-### Application Updates
-- We may update the application regularly
-- Some updates may be mandatory to continue using
-- New features may be added or removed
+## 9. Changes and contact
 
-### Terms Changes
-- We may modify these terms occasionally
-- We will notify about significant changes
-- Continued use after changes constitutes acceptance
+Online access may be restricted for fraud, abuse, attacks, or legal requirements. Material changes will be published here and may be announced in the app. Brazilian law applies without removing mandatory protections in the consumer's place of residence.
 
-## 🚫 Suspension and Cancellation
+**Operator:** Savio Macedo
 
-### Account Suspension
-- We may suspend accounts for violating these terms
-- Fraud or abuse attempts will result in suspension
-- You will be notified about suspensions when possible
+**Contact:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
-### Subscription Cancellation
-- You can cancel your subscription at any time
-- Cancellation can be done through account settings
-- Premium access continues until the end of paid period
-
-## ⚖️ Limitation of Liability
-
-### Disclaimer of Warranties
-- The application is provided "as is"
-- We do not guarantee uninterrupted or error-free operation
-- We are not responsible for data loss
-
-### Limitation of Damages
-- Our liability is limited to the maximum permitted by law
-- We are not responsible for indirect or consequential damages
-- In case of damages, liability is limited to subscription value
-
-## 🌍 Jurisdiction and Applicable Law
-
-- These terms are governed by Brazilian laws
-- Disputes will be resolved in competent Brazilian courts
-- For EU users, local consumer protection laws also apply
-
-## 📞 Contact
-
-For questions about these Terms of Service:
-
-**📧 Email:** saviomacedo.dev@gmail.com  
-**🌐 Website:** [maodesign.com.br](https://maodesign.com.br)  
-**📱 Google Play:** [MaoDesign on Play Store](https://play.google.com/store/apps/details?id=com.saviomacedo.maodesign)
-
----
-
-## 📋 Version History
-
-| Date | Version | Changes |
-|------|---------|---------|
-| 01/17/2025 | 1.0 | Initial Terms of Service version |
-
----
-
-**© 2025 Savio Macedo. All rights reserved.**
+**Help:** [Help Center]({{ '/Legal/help-en/' | relative_url }})

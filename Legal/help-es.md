@@ -1,152 +1,58 @@
 ---
 layout: legal
 title: "Centro de Ayuda"
-description: "Centro de Ayuda para la aplicación MaoDesign - Visor de Bordados"
+description: "Ayuda para usar MaoDesign"
 lang: es-ES
 permalink: /Legal/help-es/
 ---
 
-# ❓ Centro de Ayuda - MaoDesign
+# Centro de Ayuda de MaoDesign
 
-**Última actualización:** 28 de abril de 2026
+**Última actualización:** 23 de julio de 2026
 
----
+## Qué hace la aplicación
 
-## 📱 ¿Qué es MaoDesign?
+MaoDesign abre, crea y edita bordados en Android. Agrega texto, imagen y trazo libre; organiza capas e hilos; simula, guarda, exporta y comparte.
 
-**MaoDesign** es un visor gratuito de archivos de bordado para Android. Con él, puedes abrir, visualizar y explorar diseños de bordado en varios formatos populares.
+## Formatos de diseño
 
----
+El flujo de apertura acepta **DST, HUS, JEF, PEC, PES y XXX**. EDR es solo una paleta auxiliar y no representa un bordado completo. Algunos formatos conservan menos información de hilos o metadatos.
 
-## 🎯 Formatos Soportados
+## Abrir o crear
 
-MaoDesign soporta los siguientes formatos de archivos de bordado:
+- Toca **Abrir Archivo de Bordado** para usar el selector Android.
+- Toca **Crear nuevo bordado** para elegir bastidor e iniciar un proyecto vacío.
+- Los formatos reconocidos también pueden abrirse desde el gestor de archivos Android.
 
-| Formato | Descripción |
-|---------|-------------|
-| **PES** | Brother / Babylock |
-| **JEF** | Janome |
-| **HUS** | Husqvarna Viking |
-| **DST** | Tajima |
-| **XXX** | Singer / Compucon |
-| **PEC** | Brother / Babylock (compacto) |
-| **BIN** | Babylock (binario) |
-| **EXP** | Melco |
-| **EDR** | Embird (paleta de colores) |
+## Editor
 
----
+Usa **Agregar** para texto, imagen o trazo. Usa **Capas** para seleccionar/ordenar elementos e **Hilos** para revisar colores. La simulación ayuda a comprobar la secuencia, pero realiza una prueba en la máquina antes de la producción final.
 
-## 📂 Cómo Abrir un Archivo de Bordado
+## Archivos y favoritos
 
-1. Toca **Abrir Archivo** en la pantalla principal
-2. Navega hasta la carpeta donde está guardado el archivo
-3. Selecciona el archivo de bordado deseado
-4. El diseño se mostrará en el visor
+Archivos, miniaturas, recientes y favoritos permanecen en el dispositivo. El plan gratuito permite hasta **3 favoritos**; Premium amplía el límite. Desinstalar o borrar los datos puede eliminar contenido local, así que conserva copias importantes.
 
-**Consejo:** También puedes abrir archivos de bordado directamente desde el administrador de archivos de tu dispositivo.
+## Cuenta y suscripción
 
----
+El acceso con Google es opcional. Los bordados y favoritos permanecen solo en el dispositivo donde se guardaron. Premium se gestiona por Google Play. Cancela en **Google Play > Pagos y suscripciones > Suscripciones**.
 
-## 🔍 Navegación en el Visor
+Elimina la cuenta en **Perfil > Eliminar cuenta** o consulta la [página de eliminación]({{ '/Legal/delete-account-es/' | relative_url }}). Eliminar la cuenta no cancela Premium ni borra archivos locales.
 
-- **Zoom**: Usa el gesto de pellizco (dos dedos) para acercar o alejar
-- **Mover**: Arrastra con un dedo para mover el diseño en la pantalla
-- **Reiniciar**: Toca el botón de reinicio para volver a la vista original
+## Privacidad
 
----
+Cambia la recopilación en **Configuración > Nivel de Recopilación de Datos**. Esencial envía diagnósticos de fallos; Analytics y personalización dependen de tu elección. Consulta la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}).
 
-## ⭐ Bordados Guardados
+## Solución de problemas
 
-### Versión Gratuita
-- Puedes guardar hasta **5 bordados** como favoritos
-- Accede a tus guardados en la sección **Bordados Guardados** de la pantalla principal
+- **El archivo no abre:** confirma el formato, prueba otra copia y verifica que no esté dañado.
+- **Falla el acceso:** confirma internet y una cuenta Google disponible.
+- **No aparece Premium:** abre Premium y restaura/actualiza la compra con la misma cuenta Google Play.
+- **La app está lenta:** cierra otras apps, libera almacenamiento y reduce imágenes muy grandes.
+- **La eliminación exige acceso:** inicia sesión de nuevo y repite porque Firebase puede exigir autenticación reciente.
 
-### Versión Premium
-- Guarda **bordados ilimitados**
-- Sincroniza tus favoritos entre dispositivos
+## Contacto
 
----
+**Correo:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
-## 🔐 Cuenta de Usuario
-
-### ¿Necesito crear una cuenta?
-¡No! Puedes usar MaoDesign sin crear una cuenta. Sin embargo, una cuenta te permite:
-- Sincronizar bordados guardados
-- Acceder a funcionalidades avanzadas
-- Mantener tus preferencias entre dispositivos
-
-### Cómo crear una cuenta
-1. Toca el ícono de perfil en la pantalla principal
-2. Elige **Iniciar sesión** o **Crear cuenta**
-3. Sigue las instrucciones en pantalla
-
----
-
-## ⚙️ Configuraciones
-
-### Idioma
-MaoDesign está disponible en:
-- 🇧🇷 Português (Brasil)
-- 🇺🇸 English
-- 🇪🇸 Español
-
-Para cambiar el idioma, ve a **Configuraciones** > **Idioma**.
-
-### Modo de Visualización
-Personaliza cómo se muestran los bordados en el visor a través de las **Configuraciones de Visualización**.
-
----
-
-## 💎 Suscripción Premium
-
-### ¿Qué incluye?
-- ✅ Eliminación de anuncios
-- ✅ Bordados guardados ilimitados
-- ✅ Funcionalidades avanzadas de visualización
-- ✅ Soporte prioritario
-
-### ¿Cómo suscribirse?
-1. Accede a **Configuraciones** en la aplicación
-2. Toca **Premium**
-3. Elige tu plan y confirma la compra
-
-### ¿Cómo cancelar?
-La cancelación se realiza directamente a través de la **Google Play Store**:
-1. Abre la Google Play Store
-2. Toca tu ícono de perfil > **Pagos y suscripciones** > **Suscripciones**
-3. Encuentra MaoDesign y toca **Cancelar suscripción**
-
----
-
-## 🔧 Solución de Problemas
-
-### El archivo no se abre
-- Verifica que el formato sea soportado (PES, JEF, HUS, DST, XXX, PEC, BIN, EXP, EDR)
-- Asegúrate de que el archivo no esté dañado
-- Intenta abrir otro archivo para verificar si el problema persiste
-
-### La aplicación está lenta
-- Cierra otras aplicaciones en segundo plano
-- Verifica que haya espacio libre en tu dispositivo
-- Actualiza la aplicación a la versión más reciente
-
-### Error al iniciar sesión
-- Verifica tu conexión a internet
-- Asegúrate de que estás usando las credenciales correctas
-- Intenta restablecer tu contraseña
-
----
-
-## 📞 Contacto y Soporte
-
-Si no encontraste la respuesta a tu pregunta, contáctanos:
-
-- **Email:** saviom.cedo@hotmail.com
-- **Tiempo de respuesta:** Hasta 48 horas hábiles
-
----
-
-## 📄 Documentos Legales
-
-- [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }})
-- [Términos de Servicio]({{ '/Legal/terms-of-service-es/' | relative_url }})
+- [Términos de Uso]({{ '/Legal/terms-of-service-es/' | relative_url }})
+- [Eliminación de Cuenta]({{ '/Legal/delete-account-es/' | relative_url }})
