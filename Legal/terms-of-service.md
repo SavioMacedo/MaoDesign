@@ -90,6 +90,8 @@ Aplicam-se as leis brasileiras, sem afastar proteções obrigatórias do local d
 
 **Responsável:** SAVIO DE PAIVA MACEDO
 
+**CPF:** 051.250.371-09
+
 **Endereço:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brasil
 
 **Contato:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)

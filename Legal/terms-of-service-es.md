@@ -90,6 +90,8 @@ Se aplica la legislación brasileña, sin excluir las protecciones obligatorias 
 
 **Responsable:** SAVIO DE PAIVA MACEDO
 
+**Identificación fiscal brasileña (CPF):** 051.250.371-09
+
 **Dirección:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brasil
 
 **Contacto:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)

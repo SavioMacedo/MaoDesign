@@ -90,6 +90,8 @@ Brazilian law applies without removing mandatory protections in the consumer's p
 
 **Operator:** SAVIO DE PAIVA MACEDO
 
+**Brazilian taxpayer ID (CPF):** 051.250.371-09
+
 **Address:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brazil
 
 **Contact:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
