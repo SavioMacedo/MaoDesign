@@ -20,4 +20,4 @@ Arquivos-fonte das páginas publicadas pelo GitHub Pages.
 - Não aplique alterações para retirar direitos de compras anteriores; mantenha a oferta no aplicativo e as páginas coerentes com a versão publicada.
 - Complete identificação do fornecedor e critérios operacionais antes da publicação. Não use texto provisório ou declaração de conformidade como substituto de práticas verificadas.
 
-**Contato:** saviomacedo.dev@gmail.com
+**Contato:** saviomacedo718+maodesign@gmail.com

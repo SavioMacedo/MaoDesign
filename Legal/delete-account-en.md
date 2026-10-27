@@ -12,6 +12,8 @@ permalink: /Legal/delete-account-en/
 
 **Version:** 2.2
 
+The updated data collection and advertising controls described in the Privacy Policy apply starting with the MaoDesign version that implements them. Until then, data collection and advertising follow the controls available in the installed version.
+
 ## Delete through the app
 
 If you can sign in to the account:
@@ -22,11 +24,11 @@ If you can sign in to the account:
 4. Read the notice and confirm **Delete account**.
 5. If Firebase requires recent authentication, sign in again and repeat the operation.
 
-When the operation completes successfully, MaoDesign removes the Firestore markers covered by the flow, deletes your Firebase identity, and clears local sign-in credentials. If a step fails, deletion may be incomplete: try again or request support by email. An error message does not confirm that deletion is complete.
+When the operation completes successfully, MaoDesign removes the Firestore markers covered by the flow and deletes your Firebase identity. It then attempts to clear local sign-in credentials; this step can fail without preventing the app from reporting deletion as complete. If removing the markers or deleting the identity fails, deletion may be incomplete: try again or contact support. An error message does not confirm that deletion is complete.
 
 ## Request by email
 
-If you cannot use the in-app flow, email [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com) with:
+If you cannot use the in-app flow, email [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com) with:
 
 - subject **MaoDesign account deletion**;
 - the Google account address used with MaoDesign;
@@ -39,7 +41,7 @@ Do not send a password, token, identity document, or payment data. We may reply 
 - Firebase identity and account identifier;
 - name, email, and photo held in the MaoDesign Firebase profile;
 - usage markers stored under `users/{uid}/aha_markers` in Firestore;
-- local MaoDesign session credentials.
+- local MaoDesign session credentials, which the app attempts to clear but may not successfully remove.
 
 ## Data preserved or handled separately
 
@@ -63,4 +65,4 @@ With an ordinary cancellation, access continues until the end of the period alre
 
 **Address:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brazil
 
-**Contact:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Contact:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)

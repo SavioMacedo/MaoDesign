@@ -12,6 +12,8 @@ permalink: /Legal/delete-account/
 
 **Versão:** 2.2
 
+Os controles atualizados de coleta e publicidade descritos na Política de Privacidade aplicam-se a partir da versão do MaoDesign que os implementar. Até essa versão, a coleta e a publicidade seguem os controles disponíveis na versão instalada.
+
 ## Excluir pelo aplicativo
 
 Se você consegue entrar na conta:
@@ -22,11 +24,11 @@ Se você consegue entrar na conta:
 4. Leia o aviso e confirme **Excluir conta**.
 5. Se o Firebase solicitar autenticação recente, entre novamente e repita a operação.
 
-Quando a operação termina com sucesso, o MaoDesign remove os marcadores Firestore abrangidos pelo fluxo, exclui sua identidade Firebase e limpa as credenciais locais de login. Se uma etapa falhar, a exclusão pode ficar incompleta: tente novamente ou solicite atendimento por e-mail. Uma mensagem de erro não confirma a conclusão da exclusão.
+Quando a operação termina com sucesso, o MaoDesign remove os marcadores Firestore abrangidos pelo fluxo e exclui sua identidade Firebase. Depois disso, tenta limpar as credenciais locais de login; essa etapa pode falhar sem impedir que o app informe a exclusão como concluída. Se a remoção dos marcadores ou a exclusão da identidade falhar, a exclusão pode ficar incompleta: tente novamente ou solicite atendimento por e-mail. Uma mensagem de erro não confirma a conclusão da exclusão.
 
 ## Solicitar por e-mail
 
-Se você não consegue usar o fluxo do aplicativo, envie a solicitação para [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com) com:
+Se você não consegue usar o fluxo do aplicativo, envie a solicitação para [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com) com:
 
 - assunto **Exclusão de conta MaoDesign**;
 - endereço da conta Google usada no MaoDesign;
@@ -39,7 +41,7 @@ Não envie senha, token, documento pessoal ou dados de pagamento. Poderemos resp
 - identidade e identificador da conta Firebase;
 - nome, e-mail e foto mantidos no perfil Firebase do MaoDesign;
 - marcadores de uso armazenados em `users/{uid}/aha_markers` no Firestore;
-- credenciais locais da sessão MaoDesign.
+- credenciais locais da sessão MaoDesign, cuja limpeza é tentada pelo app e pode não ser concluída.
 
 ## Dados preservados ou tratados separadamente
 
@@ -63,4 +65,4 @@ No cancelamento comum, o acesso continua até o fim do período já pago e a ass
 
 **Endereço:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brasil
 
-**Contato:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Contato:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)

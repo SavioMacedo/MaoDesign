@@ -12,6 +12,8 @@ permalink: /Legal/terms-of-service-en/
 
 **Version:** 2.2
 
+The updated data collection and advertising controls described in the Privacy Policy apply starting with the MaoDesign version that implements them. Until then, data collection and advertising follow the controls available in the installed version.
+
 By installing or using MaoDesign, you agree to these Terms and the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}). If you disagree, do not use the app.
 
 ## 1. Service
@@ -30,7 +32,7 @@ You can delete a MaoDesign account under **Profile > Delete account**. See the [
 
 ## 3. Free and Premium plans
 
-The free plan is supported by contextual, non-personalized ads regardless of the option selected under **Settings > Usage measurement** and may have limits, including up to **3 favorites**. Premium removes ads and may expand text, image, font, and favorite limits as shown on the subscription screen.
+The free plan is supported by ads. In the MaoDesign version that implements the controls described in the Privacy Policy, ads will be contextual and non-personalized regardless of the option selected under **Settings > Usage measurement**. Earlier versions follow the controls available when they were released. The free plan may have limits, including up to **3 favorites**. Premium removes ads and may expand text, image, font, and favorite limits as shown on the subscription screen.
 
 ### 3.1. Price, billing, and renewal
 
@@ -50,7 +52,7 @@ The ordinary cancellation rule does not limit the right to withdraw from a purch
 
 After the applicable statutory withdrawal period has expired, MaoDesign does not offer a voluntary full or prorated refund solely for a change of mind. This does not limit withdrawal requests made within the applicable period, even if reviewed or processed later, or any more favorable terms previously promised. Rights relating to service failures, failure to honor the offer, other refunds required by law, and refunds granted under Google Play rules remain preserved.
 
-To request a refund review, use the [support channel](mailto:saviomacedo.dev@gmail.com) or [Google Play channels](https://support.google.com/googleplay/answer/15574897?hl=en-US). We may ask for the **GPA** order number and the minimum information needed to locate and confirm the purchase. The review considers applicable law, the accepted offer, and relevant platform rules. You do not need to provide app feedback to exercise these rights.
+To request a refund review, use the [support channel](mailto:saviomacedo718+maodesign@gmail.com) or [Google Play channels](https://support.google.com/googleplay/answer/15574897?hl=en-US). We may ask for the **GPA** order number and the minimum information needed to locate and confirm the purchase. The review considers applicable law, the accepted offer, and relevant platform rules. You do not need to provide app feedback to exercise these rights.
 
 MaoDesign support remains available to review requests after that period, including requests involving a possible service failure, failure to honor the offer, or other legal rights.
 
@@ -94,7 +96,7 @@ Brazilian law applies without removing mandatory protections in the consumer's p
 
 **Address:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brazil
 
-**Contact:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Contact:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)
 
 **Help:** [Help Center]({{ '/Legal/help-en/' | relative_url }})
 

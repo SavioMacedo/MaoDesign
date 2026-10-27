@@ -31,4 +31,4 @@ O MaoDesign é um aplicativo Android para abrir, criar, editar, simular e export
 - [Eliminación de Cuenta]({{ '/Legal/delete-account-es/' | relative_url }})
 - [Centro de Ayuda]({{ '/Legal/help-es/' | relative_url }})
 
-**Contato:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Contato:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)

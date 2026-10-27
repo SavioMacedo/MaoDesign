@@ -1,0 +1,45 @@
+name: Construção e validação do site legal
+
+on:
+  push:
+    branches:
+      - "codex/**"
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-validate:
+    if: ${{ github.event_name != 'pull_request' || startsWith(github.head_ref, 'codex/') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Baixar o código-fonte
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Configurar Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Gerar o site Jekyll com front matter estrito
+        run: bundle exec jekyll build --strict_front_matter --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Validar as páginas legais geradas
+        run: python3 scripts/check-legal-build.py --site-dir _site
+
+      - name: Enviar o site gerado para revisão
+        if: ${{ always() && hashFiles('_site/**') != '' }}
+        uses: actions/upload-artifact@v7
+        with:
+          name: legal-site-${{ github.run_id }}-${{ github.run_attempt }}
+          path: _site/
+          if-no-files-found: error
+          retention-days: 7

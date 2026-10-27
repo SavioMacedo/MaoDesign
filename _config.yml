@@ -2,7 +2,7 @@
 title: "MaoDesign"
 description: "Documentos legais públicos do aplicativo MaoDesign para Android"
 author: "Savio Macedo"
-email: "saviomacedo.dev@gmail.com"
+email: "saviomacedo718+maodesign@gmail.com"
 url: "https://saviomacedo.github.io"
 baseurl: "/MaoDesign"
 
@@ -22,6 +22,7 @@ exclude:
   - .git/
   - .gitignore
   - README.md
+  - scripts/
 
 # Collections
 collections:
