@@ -8,47 +8,59 @@ permalink: /Legal/help-en/
 
 # MaoDesign Help Center
 
-**Last updated:** July 23, 2026
+**Last updated:** October 27, 2026
+
+**Version:** 2.1
 
 ## What the app does
 
-MaoDesign opens, creates, and edits embroidery designs on Android. Add text, images, and freehand strokes; organize layers and threads; simulate, save, export, and share.
+MaoDesign opens, creates, and edits embroidery designs on Android. You can add text, images, and strokes, organize layers and threads, simulate, save, export, and share.
 
 ## Design formats
 
-The opening flow accepts **DST, HUS, JEF, PEC, PES, and XXX**. EDR is only an auxiliary palette and is not a complete embroidery design. Some formats preserve less thread or metadata information.
+The opening flow accepts **DST, HUS, JEF, PEC, PES, and XXX**. EDR is only an auxiliary palette and is not a complete embroidery design. Some formats preserve less thread or metadata information than others.
 
 ## Open or create
 
 - Tap **Open Embroidery File** to use the Android picker.
-- Tap **Create new embroidery** to select a hoop and start an empty project.
+- Tap **Create new embroidery** to choose a hoop and start an empty project.
 - Recognized formats may also open from the Android file manager.
 
 ## Editor
 
-Use **Add** for text, image, or stroke. Use **Layers** to select/order elements and **Threads** to review colors. Simulation helps inspect sequence, but always test on the machine before final production.
+Use **Add** for text, image, or stroke. Use **Layers** to select and order elements and **Threads** to review colors. Simulation helps check the sequence, but always test on the machine before final production.
 
 ## Files and favorites
 
-Files, thumbnails, recent history, and favorites stay on the device. Free allows up to **3 favorites**; Premium expands the limit. Uninstalling or clearing app data may erase local content, so keep copies of important work.
+Files, thumbnails, recent files, and favorites stay on the device. The free plan allows up to **3 favorites**; Premium expands this limit. Uninstalling the app or clearing its data may erase local content, so keep copies of important work.
 
 ## Account and subscription
 
-Google sign-in is optional. Embroidery designs and favorites remain only on the device where they were saved. Premium is managed by Google Play. Cancel under **Google Play > Payments & subscriptions > Subscriptions**.
+Google sign-in is optional. Embroidery designs and favorites remain only on the device where they were saved. Premium is managed by Google Play. To cancel, open **Google Play > Payments & subscriptions > Subscriptions**.
 
-Delete the account under **Profile > Delete account** or see the [deletion page]({{ '/Legal/delete-account-en/' | relative_url }}). Account deletion does not cancel Premium or remove local files.
+### Cancel renewal
+
+With an ordinary cancellation, automatic renewal stops, you keep Premium until the end of the period already paid for, and the subscription will not renew. A future end date may therefore appear after cancellation. Canceling renewal does not automatically result in a full or prorated refund.
+
+### Request a refund
+
+After the applicable statutory withdrawal period, MaoDesign does not offer voluntary full or prorated refunds solely for a change of mind. This rule does not affect withdrawal requests exercised within the applicable period, even if processed later, any more favorable terms previously promised, remedies for service failures or failure to honor the offer, other refunds required by law, or refunds granted under Google Play rules.
+
+To request a review, email support with the **GPA** order number and purchase date, or use the [Google Play channels](https://support.google.com/googleplay/answer/15574897?hl=en-US). MaoDesign support remains available to review requests after that period; feedback about your experience is optional. See the cancellation and refund terms in the [Terms of Use]({{ '/Legal/terms-of-service-en/' | relative_url }}#subscription-cancellation).
+
+To delete the account, use **Profile > Delete account** or see the [account deletion page]({{ '/Legal/delete-account-en/' | relative_url }}). Deleting the account does not cancel Premium or remove local files.
 
 ## Privacy
 
-Change collection under **Settings > Data Collection Level**. Essential sends crash diagnostics; Analytics and personalization depend on your choice. See the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}).
+Change collection under **Settings > Data Collection Level**. Essential keeps Analytics disabled; Analytics and ad personalization depend on your choice. The **Send error reports** control is separate from those levels and can be turned off in Settings. Non-personalized ads may still appear on the free plan. See the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}).
 
 ## Troubleshooting
 
-- **File will not open:** confirm the format, try another copy, and check for corruption.
-- **Sign-in fails:** confirm internet access and an available Google account.
-- **Premium is missing:** open Premium and restore/refresh the purchase using the same Google Play account.
-- **App is slow:** close other apps, free storage, and reduce very large image complexity.
-- **Deletion requires sign-in:** sign in again and repeat because Firebase may require recent authentication.
+- **File will not open:** confirm the format, try another copy, and check whether the file is corrupted.
+- **Sign-in fails:** confirm internet access and an available Google account on the device.
+- **Premium is missing:** open the Premium screen and restore or refresh the purchase; confirm you are using the same Google Play account.
+- **App is slow:** close other apps, free up storage, and reduce the complexity of very large images.
+- **Deletion requires sign-in:** sign in again and repeat, since Firebase may require recent authentication.
 
 ## Contact
 

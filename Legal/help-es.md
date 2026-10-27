@@ -8,51 +8,63 @@ permalink: /Legal/help-es/
 
 # Centro de Ayuda de MaoDesign
 
-**Última actualización:** 23 de julio de 2026
+**Última actualización:** 27 de octubre de 2026
+
+**Versión:** 2.1
 
 ## Qué hace la aplicación
 
-MaoDesign abre, crea y edita bordados en Android. Agrega texto, imagen y trazo libre; organiza capas e hilos; simula, guarda, exporta y comparte.
+MaoDesign abre, crea y edita bordados en Android. Puedes agregar texto, imágenes y trazos, organizar capas e hilos, simular, guardar, exportar y compartir.
 
 ## Formatos de diseño
 
-El flujo de apertura acepta **DST, HUS, JEF, PEC, PES y XXX**. EDR es solo una paleta auxiliar y no representa un bordado completo. Algunos formatos conservan menos información de hilos o metadatos.
+El flujo de apertura acepta **DST, HUS, JEF, PEC, PES y XXX**. EDR es solo una paleta auxiliar y no representa un bordado completo. Algunos formatos conservan menos información de hilos o metadatos que otros.
 
 ## Abrir o crear
 
-- Toca **Abrir Archivo de Bordado** para usar el selector Android.
-- Toca **Crear nuevo bordado** para elegir bastidor e iniciar un proyecto vacío.
-- Los formatos reconocidos también pueden abrirse desde el gestor de archivos Android.
+- Toca **Abrir Archivo de Bordado** para usar el selector de Android.
+- Toca **Crear nuevo bordado** para elegir un bastidor e iniciar un proyecto vacío.
+- Los formatos reconocidos también pueden abrirse desde el gestor de archivos de Android.
 
 ## Editor
 
-Usa **Agregar** para texto, imagen o trazo. Usa **Capas** para seleccionar/ordenar elementos e **Hilos** para revisar colores. La simulación ayuda a comprobar la secuencia, pero realiza una prueba en la máquina antes de la producción final.
+Usa **Agregar** para texto, imagen o trazo. Usa **Capas** para seleccionar y ordenar elementos e **Hilos** para revisar colores. La simulación ayuda a comprobar la secuencia, pero realiza siempre una prueba en la máquina antes de la producción final.
 
 ## Archivos y favoritos
 
-Archivos, miniaturas, recientes y favoritos permanecen en el dispositivo. El plan gratuito permite hasta **3 favoritos**; Premium amplía el límite. Desinstalar o borrar los datos puede eliminar contenido local, así que conserva copias importantes.
+Los archivos, las miniaturas, los recientes y los favoritos permanecen en el dispositivo. El plan gratuito permite hasta **3 favoritos**; Premium amplía ese límite. Desinstalar la aplicación o borrar sus datos puede eliminar el contenido local, así que conserva copias de los trabajos importantes.
 
 ## Cuenta y suscripción
 
-El acceso con Google es opcional. Los bordados y favoritos permanecen solo en el dispositivo donde se guardaron. Premium se gestiona por Google Play. Cancela en **Google Play > Pagos y suscripciones > Suscripciones**.
+El acceso con Google es opcional. Los bordados y favoritos permanecen solo en el dispositivo donde se guardaron. Premium se gestiona mediante Google Play. Para cancelar, abre **Google Play > Pagos y suscripciones > Suscripciones**.
 
-Elimina la cuenta en **Perfil > Eliminar cuenta** o consulta la [página de eliminación]({{ '/Legal/delete-account-es/' | relative_url }}). Eliminar la cuenta no cancela Premium ni borra archivos locales.
+### Cancelar la renovación
+
+En una cancelación ordinaria, se interrumpe la renovación automática, mantienes Premium hasta el final del período ya pagado y la suscripción no se renueva. Por eso, puede aparecer una fecha de finalización futura incluso después de cancelar. Cancelar la renovación no genera automáticamente un reembolso total ni proporcional.
+
+### Solicitar un reembolso
+
+Una vez vencido el plazo legal de desistimiento aplicable, MaoDesign no ofrece reembolsos voluntarios totales ni proporcionales por un mero cambio de opinión. Esta regla no afecta a las solicitudes de desistimiento ejercidas dentro del plazo aplicable, aunque se tramiten después. También se mantienen las condiciones más favorables prometidas anteriormente, los derechos por fallos del servicio o incumplimiento de la oferta, otras restituciones exigidas por ley y los reembolsos concedidos conforme a las reglas de Google Play.
+
+Para solicitar una revisión, escribe al soporte con el número de pedido **GPA** y la fecha de compra, o usa los [canales de Google Play](https://support.google.com/googleplay/answer/15574897?hl=es). El soporte de MaoDesign sigue disponible para revisar solicitudes después de ese plazo; los comentarios sobre tu experiencia son opcionales. Consulta las condiciones de cancelación y reembolso en los [Términos de Uso]({{ '/Legal/terms-of-service-es/' | relative_url }}#subscription-cancellation).
+
+Para eliminar la cuenta, usa **Perfil > Eliminar cuenta** o consulta la [página de eliminación de cuenta]({{ '/Legal/delete-account-es/' | relative_url }}). Eliminar la cuenta no cancela Premium ni borra los archivos locales.
 
 ## Privacidad
 
-Cambia la recopilación en **Configuración > Nivel de Recopilación de Datos**. Esencial envía diagnósticos de fallos; Analytics y personalización dependen de tu elección. Consulta la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}).
+Cambia la recopilación en **Configuración > Nivel de Recopilación de Datos**. Esencial mantiene Analytics deshabilitado; Analytics y la personalización publicitaria dependen de tu elección. El control **Enviar informes de errores** es independiente de esos niveles y puede desactivarse en Configuración. En el plan gratuito aún pueden aparecer anuncios no personalizados. Consulta la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}).
 
 ## Solución de problemas
 
-- **El archivo no abre:** confirma el formato, prueba otra copia y verifica que no esté dañado.
-- **Falla el acceso:** confirma internet y una cuenta Google disponible.
-- **No aparece Premium:** abre Premium y restaura/actualiza la compra con la misma cuenta Google Play.
-- **La app está lenta:** cierra otras apps, libera almacenamiento y reduce imágenes muy grandes.
-- **La eliminación exige acceso:** inicia sesión de nuevo y repite porque Firebase puede exigir autenticación reciente.
+- **El archivo no abre:** confirma el formato, prueba otra copia y comprueba si el archivo está dañado.
+- **Falla el acceso:** confirma que haya conexión a Internet y una cuenta Google disponible en el dispositivo.
+- **No aparece Premium:** abre la pantalla Premium y restaura o actualiza la compra; confirma que usas la misma cuenta Google Play.
+- **La aplicación está lenta:** cierra otras aplicaciones, libera almacenamiento y reduce la complejidad de las imágenes muy grandes.
+- **La eliminación exige iniciar sesión:** vuelve a iniciar sesión y repite la operación, ya que Firebase puede exigir autenticación reciente.
 
 ## Contacto
 
-**Correo:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Correo electrónico:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
 - [Términos de Uso]({{ '/Legal/terms-of-service-es/' | relative_url }})
 - [Eliminación de Cuenta]({{ '/Legal/delete-account-es/' | relative_url }})
