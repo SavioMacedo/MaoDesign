@@ -23,6 +23,9 @@ exclude:
   - .gitignore
   - README.md
   - scripts/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
 
 # Collections
 collections:
