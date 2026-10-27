@@ -10,7 +10,7 @@ permalink: /Legal/terms-of-service/
 
 **Última atualização:** 27 de outubro de 2026
 
-**Versão:** 2.1
+**Versão:** 2.2
 
 Ao instalar ou usar o MaoDesign, você concorda com estes Termos e com a [Política de Privacidade]({{ '/Legal/privacy-policy/' | relative_url }}). Se não concordar, não utilize o aplicativo.
 
@@ -24,11 +24,13 @@ O serviço pode evoluir e corrigir falhas. Mudanças relevantes em funcionalidad
 
 As funções principais podem ser usadas sem conta. O login Google é opcional. Você é responsável pela segurança da sua conta Google e pelas atividades realizadas no dispositivo. Não tente acessar contas ou dados de terceiros.
 
+O MaoDesign é destinado a pessoas com 16 anos ou mais. Na Google Play, os grupos de público-alvo são 16–17 e 18+. A classificação de conteúdo **Todos** (**Livre**) da loja é distinta dessa indicação por idade.
+
 A conta MaoDesign pode ser excluída em **Perfil > Excluir conta**. Consulte a [página de exclusão]({{ '/Legal/delete-account/' | relative_url }}). Excluir a conta não apaga automaticamente arquivos locais nem cancela uma assinatura Google Play.
 
 ## 3. Plano gratuito e Premium
 
-O plano gratuito é financiado por anúncios e pode aplicar limites, incluindo até **3 favoritos**. Premium pode remover anúncios e ampliar limites de textos, imagens, fontes e favoritos conforme mostrado na tela de assinatura.
+O plano gratuito é financiado por anúncios contextuais, sem personalização, qualquer que seja a opção em **Configurações > Medição de uso**, e pode aplicar limites, incluindo até **3 favoritos**. Premium remove anúncios e pode ampliar limites de textos, imagens, fontes e favoritos conforme mostrado na tela de assinatura.
 
 ### 3.1. Preço, cobrança e renovação
 
@@ -86,7 +88,9 @@ Alterações relevantes destes Termos serão identificadas por data e versão e 
 
 Aplicam-se as leis brasileiras, sem afastar proteções obrigatórias do local de residência do consumidor.
 
-**Responsável:** Savio Macedo
+**Responsável:** SAVIO DE PAIVA MACEDO
+
+**Endereço:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brasil
 
 **Contato:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 

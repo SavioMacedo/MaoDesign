@@ -10,11 +10,13 @@ permalink: /Legal/help/
 
 **Última atualização:** 27 de outubro de 2026
 
-**Versão:** 2.1
+**Versão:** 2.2
 
 ## O que o aplicativo faz
 
 O MaoDesign abre, cria e edita bordados no Android. Você pode adicionar texto, imagem e traço, organizar camadas e linhas, simular, salvar, exportar e compartilhar.
+
+O MaoDesign é destinado a pessoas com 16 anos ou mais. Na Google Play, os grupos de público-alvo são 16–17 e 18+. A classificação de conteúdo **Todos** (**Livre**) da loja é distinta dessa indicação por idade.
 
 ## Formatos de desenho
 
@@ -52,7 +54,7 @@ Para excluir a conta, use **Perfil > Excluir conta** ou consulte a [página de e
 
 ## Privacidade
 
-Altere a coleta em **Configurações > Nível de Coleta de Dados**. Essencial mantém o Analytics desabilitado; Analytics e personalização dependem da sua escolha. O controle **Enviar relatórios de erros** é separado desses níveis e pode ser desativado em Configurações. Anúncios não personalizados ainda podem aparecer no plano gratuito. Consulte a [Política de Privacidade]({{ '/Legal/privacy-policy/' | relative_url }}).
+Altere a opção em **Configurações > Medição de uso**. Escolha **Somente essencial** para manter desligada a medição de uso ou **Permitir medição** para ativar a coleta opcional do Firebase Analytics. Um valor legado **Completo** é normalizado para **Permitir medição** e não autoriza personalização de anúncios. Os anúncios exibidos no plano gratuito são contextuais e não personalizados nas duas opções; Premium remove anúncios. O controle **Enviar relatórios de erros** é separado, fica ativo por padrão e pode ser desativado em Configurações. Consulte a [Política de Privacidade]({{ '/Legal/privacy-policy/' | relative_url }}).
 
 ## Solução de problemas
 

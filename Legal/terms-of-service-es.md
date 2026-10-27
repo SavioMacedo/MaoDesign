@@ -10,7 +10,7 @@ permalink: /Legal/terms-of-service-es/
 
 **Última actualización:** 27 de octubre de 2026
 
-**Versión:** 2.1
+**Versión:** 2.2
 
 Al instalar o usar MaoDesign, aceptas estos Términos y la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}). Si no estás de acuerdo, no uses la aplicación.
 
@@ -24,11 +24,13 @@ El servicio puede evolucionar y corregir fallos. Los cambios relevantes en funci
 
 Las funciones principales pueden usarse sin cuenta. El acceso con Google es opcional. Eres responsable de la seguridad de tu cuenta Google y de la actividad en tu dispositivo. No intentes acceder a cuentas o datos de otras personas.
 
+MaoDesign está dirigido a personas de 16 años o más. Google Play indica los grupos de público 16–17 y 18+. Su clasificación de contenido **Todos** es independiente de esta indicación por edad.
+
 Puedes eliminar tu cuenta MaoDesign en **Perfil > Eliminar cuenta**. Consulta la [página de eliminación de cuenta]({{ '/Legal/delete-account-es/' | relative_url }}). Eliminar la cuenta no borra automáticamente los archivos locales ni cancela una suscripción de Google Play.
 
 ## 3. Planes Gratis y Premium
 
-El plan gratuito se financia con anuncios y puede aplicar límites, incluidos hasta **3 favoritos**. Premium puede eliminar anuncios y ampliar los límites de textos, imágenes, fuentes y favoritos según se muestre en la pantalla de suscripción.
+El plan gratuito se financia con anuncios contextuales, no personalizados, cualquiera que sea la opción elegida en **Configuración > Medición de uso**, y puede aplicar límites, incluidos hasta **3 favoritos**. Premium elimina los anuncios y puede ampliar los límites de textos, imágenes, fuentes y favoritos según se muestre en la pantalla de suscripción.
 
 ### 3.1. Precio, cobro y renovación
 
@@ -86,7 +88,9 @@ Los cambios relevantes de estos Términos se identificarán con fecha y versión
 
 Se aplica la legislación brasileña, sin excluir las protecciones obligatorias del lugar de residencia del consumidor.
 
-**Responsable:** Savio Macedo
+**Responsable:** SAVIO DE PAIVA MACEDO
+
+**Dirección:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brasil
 
 **Contacto:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 

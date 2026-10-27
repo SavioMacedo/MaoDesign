@@ -10,7 +10,7 @@ permalink: /Legal/terms-of-service-en/
 
 **Last updated:** October 27, 2026
 
-**Version:** 2.1
+**Version:** 2.2
 
 By installing or using MaoDesign, you agree to these Terms and the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}). If you disagree, do not use the app.
 
@@ -24,11 +24,13 @@ The service may evolve and fix defects. Material changes to features or limits w
 
 Core features can be used without an account. Google sign-in is optional. You are responsible for the security of your Google account and activity on your device. Do not try to access another person's account or data.
 
+MaoDesign is intended for people aged 16 and older. Google Play lists audience groups 16–17 and 18+. Its **Everyone** content rating is separate from this age-based designation.
+
 You can delete a MaoDesign account under **Profile > Delete account**. See the [account deletion page]({{ '/Legal/delete-account-en/' | relative_url }}). Deleting the account does not automatically delete local files or cancel a Google Play subscription.
 
 ## 3. Free and Premium plans
 
-The free plan is supported by ads and may have limits, including up to **3 favorites**. Premium may remove ads and expand text, image, font, and favorite limits as shown on the subscription screen.
+The free plan is supported by contextual, non-personalized ads regardless of the option selected under **Settings > Usage measurement** and may have limits, including up to **3 favorites**. Premium removes ads and may expand text, image, font, and favorite limits as shown on the subscription screen.
 
 ### 3.1. Price, billing, and renewal
 
@@ -86,7 +88,9 @@ Material changes to these Terms will be identified by date and version and commu
 
 Brazilian law applies without removing mandatory protections in the consumer's place of residence.
 
-**Operator:** Savio Macedo
+**Operator:** SAVIO DE PAIVA MACEDO
+
+**Address:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brazil
 
 **Contact:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
 
