@@ -10,11 +10,15 @@ permalink: /Legal/help-en/
 
 **Last updated:** October 27, 2026
 
-**Version:** 2.1
+**Version:** 2.2
+
+The updated data collection and advertising controls described in the Privacy Policy apply starting with the MaoDesign version that implements them. Until then, data collection and advertising follow the controls available in the installed version.
 
 ## What the app does
 
 MaoDesign opens, creates, and edits embroidery designs on Android. You can add text, images, and strokes, organize layers and threads, simulate, save, export, and share.
+
+MaoDesign is intended for people aged 16 and older. Google Play lists audience groups 16–17 and 18+. Its **Everyone** content rating is separate from this age-based designation.
 
 ## Design formats
 
@@ -52,7 +56,7 @@ To delete the account, use **Profile > Delete account** or see the [account dele
 
 ## Privacy
 
-Change collection under **Settings > Data Collection Level**. Essential keeps Analytics disabled; Analytics and ad personalization depend on your choice. The **Send error reports** control is separate from those levels and can be turned off in Settings. Non-personalized ads may still appear on the free plan. See the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}).
+Change the option under **Settings > Usage measurement**. Choose **Essential only** to keep usage measurement off or **Allow measurement** to enable optional Firebase Analytics collection. Normalizing a legacy **Full** value to **Allow measurement** and not enabling ad personalization apply to the version that implements the controls described in the Privacy Policy. Until then, Analytics and advertising follow the controls available in the installed version. In versions with those controls, free-plan ads are contextual and not personalized under either measurement option; Premium removes ads. The **Send error reports** control is separate, on by default, and can be turned off in Settings. See the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}).
 
 ## Troubleshooting
 
@@ -64,7 +68,7 @@ Change collection under **Settings > Data Collection Level**. Essential keeps An
 
 ## Contact
 
-**Email:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Email:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)
 
 - [Terms of Use]({{ '/Legal/terms-of-service-en/' | relative_url }})
 - [Account Deletion]({{ '/Legal/delete-account-en/' | relative_url }})

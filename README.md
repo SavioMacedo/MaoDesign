@@ -26,4 +26,4 @@ A página inicial publicada lista todos os permalinks. O aplicativo abre diretam
 
 Ao mudar fornecedores, coleta, autenticação, formatos, assinatura ou exclusão de conta no aplicativo, revise as três traduções antes da publicação.
 
-**Contato:** saviomacedo.dev@gmail.com
+**Contato:** saviomacedo718+maodesign@gmail.com

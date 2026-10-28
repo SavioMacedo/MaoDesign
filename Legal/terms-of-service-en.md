@@ -10,7 +10,9 @@ permalink: /Legal/terms-of-service-en/
 
 **Last updated:** October 27, 2026
 
-**Version:** 2.1
+**Version:** 2.2
+
+The updated data collection and advertising controls described in the Privacy Policy apply starting with the MaoDesign version that implements them. Until then, data collection and advertising follow the controls available in the installed version.
 
 By installing or using MaoDesign, you agree to these Terms and the [Privacy Policy]({{ '/Legal/privacy-policy-en/' | relative_url }}). If you disagree, do not use the app.
 
@@ -24,11 +26,13 @@ The service may evolve and fix defects. Material changes to features or limits w
 
 Core features can be used without an account. Google sign-in is optional. You are responsible for the security of your Google account and activity on your device. Do not try to access another person's account or data.
 
+MaoDesign is intended for people aged 16 and older. Google Play lists audience groups 16–17 and 18+. Its **Everyone** content rating is separate from this age-based designation.
+
 You can delete a MaoDesign account under **Profile > Delete account**. See the [account deletion page]({{ '/Legal/delete-account-en/' | relative_url }}). Deleting the account does not automatically delete local files or cancel a Google Play subscription.
 
 ## 3. Free and Premium plans
 
-The free plan is supported by ads and may have limits, including up to **3 favorites**. Premium may remove ads and expand text, image, font, and favorite limits as shown on the subscription screen.
+The free plan is supported by ads. In the MaoDesign version that implements the controls described in the Privacy Policy, ads will be contextual and non-personalized regardless of the option selected under **Settings > Usage measurement**. Earlier versions follow the controls available when they were released. The free plan may have limits, including up to **3 favorites**. Premium removes ads and may expand text, image, font, and favorite limits as shown on the subscription screen.
 
 ### 3.1. Price, billing, and renewal
 
@@ -48,7 +52,7 @@ The ordinary cancellation rule does not limit the right to withdraw from a purch
 
 After the applicable statutory withdrawal period has expired, MaoDesign does not offer a voluntary full or prorated refund solely for a change of mind. This does not limit withdrawal requests made within the applicable period, even if reviewed or processed later, or any more favorable terms previously promised. Rights relating to service failures, failure to honor the offer, other refunds required by law, and refunds granted under Google Play rules remain preserved.
 
-To request a refund review, use the [support channel](mailto:saviomacedo.dev@gmail.com) or [Google Play channels](https://support.google.com/googleplay/answer/15574897?hl=en-US). We may ask for the **GPA** order number and the minimum information needed to locate and confirm the purchase. The review considers applicable law, the accepted offer, and relevant platform rules. You do not need to provide app feedback to exercise these rights.
+To request a refund review, use the [support channel](mailto:saviomacedo718+maodesign@gmail.com) or [Google Play channels](https://support.google.com/googleplay/answer/15574897?hl=en-US). We may ask for the **GPA** order number and the minimum information needed to locate and confirm the purchase. The review considers applicable law, the accepted offer, and relevant platform rules. You do not need to provide app feedback to exercise these rights.
 
 MaoDesign support remains available to review requests after that period, including requests involving a possible service failure, failure to honor the offer, or other legal rights.
 
@@ -86,9 +90,13 @@ Material changes to these Terms will be identified by date and version and commu
 
 Brazilian law applies without removing mandatory protections in the consumer's place of residence.
 
-**Operator:** Savio Macedo
+**Operator:** SAVIO DE PAIVA MACEDO
 
-**Contact:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Brazilian taxpayer ID (CPF):** 051.250.371-09
+
+**Address:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brazil
+
+**Contact:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)
 
 **Help:** [Help Center]({{ '/Legal/help-en/' | relative_url }})
 

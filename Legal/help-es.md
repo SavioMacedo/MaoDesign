@@ -10,11 +10,15 @@ permalink: /Legal/help-es/
 
 **Última actualización:** 27 de octubre de 2026
 
-**Versión:** 2.1
+**Versión:** 2.2
+
+Los controles actualizados de recopilación de datos y publicidad descritos en la Política de Privacidad se aplican a partir de la versión de MaoDesign que los implemente. Hasta entonces, la recopilación de datos y la publicidad siguen los controles disponibles en la versión instalada.
 
 ## Qué hace la aplicación
 
 MaoDesign abre, crea y edita bordados en Android. Puedes agregar texto, imágenes y trazos, organizar capas e hilos, simular, guardar, exportar y compartir.
+
+MaoDesign está dirigido a personas de 16 años o más. Google Play indica los grupos de público 16–17 y 18+. Su clasificación de contenido **Todos** es independiente de esta indicación por edad.
 
 ## Formatos de diseño
 
@@ -52,7 +56,7 @@ Para eliminar la cuenta, usa **Perfil > Eliminar cuenta** o consulta la [página
 
 ## Privacidad
 
-Cambia la recopilación en **Configuración > Nivel de Recopilación de Datos**. Esencial mantiene Analytics deshabilitado; Analytics y la personalización publicitaria dependen de tu elección. El control **Enviar informes de errores** es independiente de esos niveles y puede desactivarse en Configuración. En el plan gratuito aún pueden aparecer anuncios no personalizados. Consulta la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}).
+Cambia la opción en **Configuración > Medición de uso**. Elige **Solo esencial** para mantener desactivada la medición de uso o **Permitir medición** para activar la recopilación opcional de Firebase Analytics. La normalización del valor legado **Completo** a **Permitir medición** y la ausencia de personalización publicitaria se aplican a la versión que implemente los controles descritos en la Política de Privacidad. Hasta entonces, Analytics y la publicidad siguen los controles disponibles en la versión instalada. En las versiones con esos controles, los anuncios del plan gratuito son contextuales y no personalizados con ninguna de las dos opciones; Premium elimina los anuncios. El control **Enviar informes de errores** es independiente, está activado de forma predeterminada y puede desactivarse en Configuración. Consulta la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}).
 
 ## Solución de problemas
 
@@ -64,7 +68,7 @@ Cambia la recopilación en **Configuración > Nivel de Recopilación de Datos**.
 
 ## Contacto
 
-**Correo electrónico:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Correo electrónico:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)
 
 - [Términos de Uso]({{ '/Legal/terms-of-service-es/' | relative_url }})
 - [Eliminación de Cuenta]({{ '/Legal/delete-account-es/' | relative_url }})

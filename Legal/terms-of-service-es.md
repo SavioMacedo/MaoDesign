@@ -10,7 +10,9 @@ permalink: /Legal/terms-of-service-es/
 
 **Última actualización:** 27 de octubre de 2026
 
-**Versión:** 2.1
+**Versión:** 2.2
+
+Los controles actualizados de recopilación de datos y publicidad descritos en la Política de Privacidad se aplican a partir de la versión de MaoDesign que los implemente. Hasta entonces, la recopilación de datos y la publicidad siguen los controles disponibles en la versión instalada.
 
 Al instalar o usar MaoDesign, aceptas estos Términos y la [Política de Privacidad]({{ '/Legal/privacy-policy-es/' | relative_url }}). Si no estás de acuerdo, no uses la aplicación.
 
@@ -24,11 +26,13 @@ El servicio puede evolucionar y corregir fallos. Los cambios relevantes en funci
 
 Las funciones principales pueden usarse sin cuenta. El acceso con Google es opcional. Eres responsable de la seguridad de tu cuenta Google y de la actividad en tu dispositivo. No intentes acceder a cuentas o datos de otras personas.
 
+MaoDesign está dirigido a personas de 16 años o más. Google Play indica los grupos de público 16–17 y 18+. Su clasificación de contenido **Todos** es independiente de esta indicación por edad.
+
 Puedes eliminar tu cuenta MaoDesign en **Perfil > Eliminar cuenta**. Consulta la [página de eliminación de cuenta]({{ '/Legal/delete-account-es/' | relative_url }}). Eliminar la cuenta no borra automáticamente los archivos locales ni cancela una suscripción de Google Play.
 
 ## 3. Planes Gratis y Premium
 
-El plan gratuito se financia con anuncios y puede aplicar límites, incluidos hasta **3 favoritos**. Premium puede eliminar anuncios y ampliar los límites de textos, imágenes, fuentes y favoritos según se muestre en la pantalla de suscripción.
+El plan gratuito se financia con anuncios. En la versión de MaoDesign que implemente los controles descritos en la Política de Privacidad, los anuncios serán contextuales y no personalizados, independientemente de la opción elegida en **Configuración > Medición de uso**. Las versiones anteriores siguen los controles disponibles cuando se publicaron. El plan gratuito puede tener límites, incluidos hasta **3 favoritos**. Premium elimina los anuncios y puede ampliar los límites de textos, imágenes, fuentes y favoritos según se muestre en la pantalla de suscripción.
 
 ### 3.1. Precio, cobro y renovación
 
@@ -48,7 +52,7 @@ La regla de cancelación ordinaria no limita el derecho de desistimiento de una 
 
 Una vez vencido el plazo legal de desistimiento aplicable, MaoDesign no ofrece reembolsos voluntarios totales ni proporcionales por un mero cambio de opinión. Esto no limita las solicitudes de desistimiento ejercidas dentro del plazo aplicable, aunque se revisen o tramiten después, ni las condiciones más favorables prometidas anteriormente. Se mantienen los derechos por fallos del servicio, incumplimiento de la oferta, otras restituciones exigidas por ley y los reembolsos concedidos conforme a las reglas de Google Play.
 
-Para solicitar una revisión del reembolso, usa el [canal de soporte](mailto:saviomacedo.dev@gmail.com) o los [canales de Google Play](https://support.google.com/googleplay/answer/15574897?hl=es). Podemos pedir el número de pedido **GPA** y los datos mínimos necesarios para localizar y confirmar la compra. La revisión considera la legislación aplicable, la oferta aceptada y las reglas pertinentes de la plataforma. No es necesario enviar comentarios sobre la aplicación para ejercer estos derechos.
+Para solicitar una revisión del reembolso, usa el [canal de soporte](mailto:saviomacedo718+maodesign@gmail.com) o los [canales de Google Play](https://support.google.com/googleplay/answer/15574897?hl=es). Podemos pedir el número de pedido **GPA** y los datos mínimos necesarios para localizar y confirmar la compra. La revisión considera la legislación aplicable, la oferta aceptada y las reglas pertinentes de la plataforma. No es necesario enviar comentarios sobre la aplicación para ejercer estos derechos.
 
 El soporte de MaoDesign sigue disponible para revisar solicitudes después de ese plazo, incluidas las relacionadas con posibles fallos del servicio, incumplimiento de la oferta u otros derechos legales.
 
@@ -86,9 +90,13 @@ Los cambios relevantes de estos Términos se identificarán con fecha y versión
 
 Se aplica la legislación brasileña, sin excluir las protecciones obligatorias del lugar de residencia del consumidor.
 
-**Responsable:** Savio Macedo
+**Responsable:** SAVIO DE PAIVA MACEDO
 
-**Contacto:** [saviomacedo.dev@gmail.com](mailto:saviomacedo.dev@gmail.com)
+**Identificación fiscal brasileña (CPF):** 051.250.371-09
+
+**Dirección:** R. Eng. Geraldo Magela de Mattos Sanábio, 1000, apto. 201, Recanto da Mata, Juiz de Fora - MG, 36083-802, Brasil
+
+**Contacto:** [saviomacedo718+maodesign@gmail.com](mailto:saviomacedo718+maodesign@gmail.com)
 
 **Ayuda:** [Centro de Ayuda]({{ '/Legal/help-es/' | relative_url }})
 
